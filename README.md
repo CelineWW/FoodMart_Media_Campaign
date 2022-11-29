@@ -7,7 +7,7 @@
   - Having tested several models, RandomForest Classifier & RandomForest Regression proved  the best performers for our dataset.
   - We explored grouping & aggregating  variables in our ML models to positive effect
   - KMeans was not viable. Our dataset refused to cluster
-- a flas app of webpage library was built to summarize and display the team work.
+- a flask app of webpage library was built to summarize and display the team work.
 
  ## Data Source
 
