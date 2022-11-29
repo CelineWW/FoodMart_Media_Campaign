@@ -1,0 +1,101 @@
+id,marital_status,gender,total_children,education,member_card,occupation,houseowner,avg_cars_at_home_approx,avg_yearly_income,num_children_at_home,store_city,store_state,media_type,promotion_name,cost
+10804,M,F,1.0,High School Degree,Bronze,Manual,Y,3.0,$30K - $50K,1.0,Los Angeles,CA,Daily Paper,High Roller Savings,101.84
+14957,S,M,2.0,Bachelors Degree,Bronze,Professional,N,4.0,$50K - $70K,0.0,San Francisco,CA,"Daily Paper, Radio",I Cant Believe It Sale,115.85
+37114,M,M,5.0,Partial College,Normal,Professional,Y,4.0,$30K - $50K,5.0,Spokane,WA,In-Store Coupon,Big Time Discounts,59.4
+24230,M,M,3.0,Partial High School,Bronze,Skilled Manual,Y,1.0,$10K - $30K,3.0,Spokane,WA,In-Store Coupon,Big Time Discounts,59.4
+43321,S,M,1.0,High School Degree,Bronze,Manual,Y,3.0,$30K - $50K,0.0,Bremerton,WA,In-Store Coupon,Shelf Clearing Days,109.21
+5998,S,M,3.0,Bachelors Degree,Bronze,Professional,N,2.0,$50K - $70K,0.0,Bremerton,WA,"Sunday Paper, Radio, TV",Money Savers,82.61
+12990,S,M,2.0,Partial College,Normal,Management,Y,3.0,$30K - $50K,0.0,Seattle,WA,"Daily Paper, Radio",Weekend Markdown,69.63
+55160,S,M,4.0,Partial High School,Bronze,Management,Y,4.0,$90K - $110K,0.0,Beverly Hills,CA,"Sunday Paper, Radio, TV",High Roller Savings,95.55
+47116,S,F,1.0,Bachelors Degree,Bronze,Professional,N,1.0,$50K - $70K,0.0,Beverly Hills,CA,Bulk Mail,You Save Days,131.81
+30492,S,M,2.0,Partial High School,Normal,Manual,N,2.0,$10K - $30K,0.0,Seattle,WA,"Daily Paper, Radio",Weekend Markdown,69.63
+29242,S,M,1.0,Partial College,Bronze,Professional,N,3.0,$30K - $50K,0.0,Los Angeles,CA,Sunday Paper,Dollar Days,143.04
+35547,S,M,0.0,Partial High School,Bronze,Skilled Manual,N,0.0,$10K - $30K,0.0,Bremerton,WA,Cash Register Handout,Price Cutters,145.52
+51056,M,F,1.0,High School Degree,Bronze,Skilled Manual,Y,3.0,$30K - $50K,0.0,Bremerton,WA,"Sunday Paper, Radio, TV",Money Savers,82.61
+35833,S,M,5.0,Partial High School,Bronze,Manual,N,4.0,$30K - $50K,0.0,Salem,OR,In-Store Coupon,Cash Register Lottery,95.78
+47871,M,M,0.0,High School Degree,Normal,Manual,Y,2.0,$30K - $50K,0.0,Beverly Hills,CA,Radio,Fantastic Discounts,137.46
+37633,M,F,4.0,Bachelors Degree,Silver,Professional,Y,2.0,$70K - $90K,2.0,Bremerton,WA,Cash Register Handout,Super Duper Savers,129.5
+40717,S,M,1.0,Bachelors Degree,Bronze,Management,N,3.0,$50K - $70K,0.0,Los Angeles,CA,Daily Paper,Save-It Sale,81.79
+29305,S,M,3.0,High School Degree,Bronze,Skilled Manual,Y,3.0,$30K - $50K,0.0,Portland,OR,In-Store Coupon,Big Time Discounts,145.6
+40636,M,M,3.0,Partial High School,Bronze,Manual,N,2.0,$30K - $50K,1.0,Spokane,WA,"Daily Paper, Radio, TV",Two for One,57.52
+49674,M,M,4.0,High School Degree,Golden,Manual,N,3.0,$30K - $50K,4.0,Beverly Hills,CA,Daily Paper,Double Down Sale,55.96
+49944,M,F,0.0,Bachelors Degree,Bronze,Professional,N,1.0,$70K - $90K,0.0,Tacoma,WA,"Sunday Paper, Radio",Dollar Cutters,136.74
+21614,S,M,3.0,Partial College,Bronze,Skilled Manual,Y,2.0,$30K - $50K,0.0,Portland,OR,"Daily Paper, Radio",Saving Days,118.36
+49597,S,F,4.0,Partial College,Bronze,Clerical,Y,4.0,$50K - $70K,0.0,Seattle,WA,Street Handout,Double Down Sale,59.19
+51939,S,M,1.0,High School Degree,Bronze,Manual,N,2.0,$30K - $50K,0.0,Beverly Hills,CA,Bulk Mail,You Save Days,131.81
+45519,S,M,4.0,Bachelors Degree,Bronze,Management,Y,4.0,$50K - $70K,0.0,Beverly Hills,CA,Daily Paper,Two for One,68.97
+35004,S,M,2.0,High School Degree,Bronze,Manual,N,4.0,$50K - $70K,0.0,Salem,OR,Product Attachment,Free For All,143.83
+31610,S,M,2.0,High School Degree,Bronze,Skilled Manual,Y,1.0,$30K - $50K,0.0,Salem,OR,"Daily Paper, Radio",Bag Stuffers,126.62
+25589,M,M,3.0,High School Degree,Bronze,Manual,N,2.0,$30K - $50K,2.0,Los Angeles,CA,Product Attachment,Saving Days,83.26
+49650,S,F,3.0,Partial High School,Bronze,Professional,Y,2.0,$130K - $150K,0.0,Los Angeles,CA,TV,Price Destroyers,135.92
+18106,S,M,5.0,Bachelors Degree,Bronze,Professional,Y,2.0,$70K - $90K,0.0,Seattle,WA,"Daily Paper, Radio, TV",Dollar Cutters,144.18
+45601,S,M,2.0,Partial High School,Normal,Skilled Manual,N,0.0,$10K - $30K,0.0,Portland,OR,"Daily Paper, Radio",Saving Days,118.36
+9106,S,F,5.0,Bachelors Degree,Bronze,Management,N,2.0,$70K - $90K,0.0,Los Angeles,CA,Bulk Mail,You Save Days,131.81
+43954,S,M,5.0,Bachelors Degree,Bronze,Professional,Y,2.0,$50K - $70K,0.0,Bellingham,WA,Radio,Go For It,73.02
+41821,S,F,3.0,High School Degree,Bronze,Manual,N,1.0,$30K - $50K,0.0,Tacoma,WA,Sunday Paper,Big Promo,51.12
+45585,S,M,1.0,Partial High School,Normal,Manual,N,1.0,$10K - $30K,0.0,Portland,OR,Product Attachment,Go For It,119.3
+10771,M,F,0.0,Partial High School,Normal,Skilled Manual,Y,1.0,$10K - $30K,0.0,Los Angeles,CA,Daily Paper,High Roller Savings,101.84
+53414,S,F,5.0,High School Degree,Bronze,Management,Y,1.0,$70K - $90K,0.0,Tacoma,WA,"Sunday Paper, Radio",Price Savers,111.7
+20641,M,M,1.0,Partial High School,Normal,Manual,Y,1.0,$10K - $30K,1.0,Bremerton,WA,TV,Coupon Spectacular,51.47
+16693,S,M,3.0,Partial High School,Normal,Manual,N,1.0,$10K - $30K,0.0,Seattle,WA,Sunday Paper,Weekend Markdown,133.6
+9230,S,M,3.0,High School Degree,Normal,Management,Y,2.0,$90K - $110K,0.0,Beverly Hills,CA,"Daily Paper, Radio, TV",Shelf Emptiers,107.89
+13355,S,M,5.0,Graduate Degree,Bronze,Professional,Y,4.0,$50K - $70K,0.0,Salem,OR,"Sunday Paper, Radio",Price Savers,80.29
+31872,S,M,4.0,Partial High School,Normal,Skilled Manual,Y,1.0,$10K - $30K,0.0,Tacoma,WA,"Sunday Paper, Radio",Price Savers,111.7
+50695,M,F,3.0,Bachelors Degree,Bronze,Management,N,4.0,$50K - $70K,2.0,Spokane,WA,Radio,Big Promo,98.52
+12555,S,F,2.0,High School Degree,Bronze,Skilled Manual,N,2.0,$50K - $70K,0.0,Tacoma,WA,Street Handout,Saving Days,67.31
+17985,S,M,1.0,Bachelors Degree,Bronze,Professional,N,1.0,$70K - $90K,0.0,Seattle,WA,Radio,Two Day Sale,91.28
+3596,M,M,4.0,Bachelors Degree,Golden,Management,Y,3.0,$50K - $70K,4.0,Los Angeles,CA,Radio,Pick Your Savings,147.17
+293,S,M,2.0,Bachelors Degree,Bronze,Professional,N,3.0,$50K - $70K,0.0,Tacoma,WA,Product Attachment,Sales Galore,149.08
+22199,S,M,4.0,Partial High School,Normal,Skilled Manual,N,1.0,$10K - $30K,0.0,Spokane,WA,"Sunday Paper, Radio, TV",Wallet Savers,79.95
+2063,M,M,3.0,Partial High School,Silver,Skilled Manual,Y,2.0,$30K - $50K,3.0,Salem,OR,In-Store Coupon,Cash Register Lottery,95.78
+10351,S,F,4.0,Partial High School,Bronze,Manual,Y,3.0,$30K - $50K,0.0,Tacoma,WA,Sunday Paper,Big Promo,51.12
+40800,M,F,3.0,Partial High School,Bronze,Manual,Y,2.0,$10K - $30K,2.0,Portland,OR,Cash Register Handout,Super Wallet Savers,140.19
+10409,S,F,2.0,Partial College,Bronze,Management,N,3.0,$30K - $50K,0.0,Tacoma,WA,TV,Double Down Sale,95.74
+31856,S,M,1.0,High School Degree,Bronze,Professional,N,2.0,$90K - $110K,0.0,Tacoma,WA,TV,Double Down Sale,95.74
+48658,M,M,4.0,Partial High School,Normal,Skilled Manual,Y,2.0,$10K - $30K,3.0,Los Angeles,CA,"Daily Paper, Radio, TV",Shelf Emptiers,107.89
+10759,M,M,2.0,Partial High School,Normal,Manual,Y,0.0,$10K - $30K,1.0,Spokane,WA,Cash Register Handout,Price Winners,95.21
+50142,M,M,4.0,Partial High School,Normal,Manual,Y,1.0,$10K - $30K,2.0,Salem,OR,"Daily Paper, Radio",Cash Register Lottery,59.86
+17028,S,F,4.0,High School Degree,Bronze,Skilled Manual,N,2.0,$30K - $50K,0.0,Salem,OR,Product Attachment,I Cant Believe It Sale,69.47
+35584,S,F,1.0,Graduate Degree,Bronze,Management,Y,2.0,$110K - $130K,0.0,San Francisco,CA,Product Attachment,Shelf Emptiers,101.75
+22201,M,M,1.0,Bachelors Degree,Bronze,Professional,Y,4.0,$110K - $130K,1.0,Spokane,WA,"Daily Paper, Radio, TV",Two for One,57.52
+22819,M,M,3.0,High School Degree,Normal,Professional,Y,3.0,$130K - $150K,0.0,Tacoma,WA,TV,Double Down Sale,95.74
+59194,M,F,1.0,Partial College,Bronze,Skilled Manual,Y,3.0,$30K - $50K,1.0,Portland,OR,Sunday Paper,Price Destroyers,121.44
+41815,S,F,4.0,Partial High School,Bronze,Manual,Y,3.0,$30K - $50K,0.0,Tacoma,WA,Sunday Paper,Big Promo,51.12
+33919,M,M,4.0,Partial High School,Golden,Professional,Y,3.0,$130K - $150K,4.0,Salem,OR,Product Attachment,I Cant Believe It Sale,69.47
+23746,M,F,2.0,High School Degree,Bronze,Skilled Manual,Y,4.0,$30K - $50K,2.0,Bremerton,WA,Sunday Paper,Shelf Clearing Days,106.1
+25290,M,F,4.0,Partial High School,Normal,Manual,Y,1.0,$10K - $30K,4.0,Seattle,WA,Bulk Mail,Unbeatable Price Savers,66.78
+55249,S,M,0.0,Bachelors Degree,Silver,Professional,Y,2.0,$50K - $70K,0.0,Portland,OR,Cash Register Handout,Green Light Days,139.19
+51159,M,F,3.0,High School Degree,Golden,Skilled Manual,N,3.0,$30K - $50K,3.0,Salem,OR,"Daily Paper, Radio, TV",Tip Top Savings,54.9
+7922,M,F,3.0,Bachelors Degree,Bronze,Professional,Y,2.0,$70K - $90K,1.0,Portland,OR,Cash Register Handout,Super Wallet Savers,140.19
+31964,S,M,5.0,High School Degree,Bronze,Manual,N,1.0,$30K - $50K,0.0,Seattle,WA,Product Attachment,Price Smashers,138.23
+10949,M,M,2.0,High School Degree,Bronze,Skilled Manual,Y,2.0,$30K - $50K,0.0,Beverly Hills,CA,Bulk Mail,Sales Galore,96.55
+59864,S,F,0.0,Partial High School,Normal,Manual,N,1.0,$10K - $30K,0.0,Salem,OR,Radio,Double Down Sale,50.79
+19525,M,F,1.0,High School Degree,Normal,Manual,Y,2.0,$30K - $50K,1.0,Portland,OR,Product Attachment,Price Savers,62.27
+25298,S,F,0.0,Partial High School,Normal,Manual,N,1.0,$10K - $30K,0.0,Seattle,WA,Radio,Double Your Savings,94.43
+13706,S,F,5.0,Bachelors Degree,Silver,Professional,N,2.0,$50K - $70K,0.0,Bellingham,WA,"Daily Paper, Radio",Sales Galore,109.03
+10669,M,M,3.0,Bachelors Degree,Golden,Professional,Y,4.0,$110K - $130K,3.0,Spokane,WA,"Daily Paper, Radio",Double Down Sale,62.67
+29858,S,M,3.0,Partial High School,Normal,Skilled Manual,Y,1.0,$10K - $30K,0.0,Los Angeles,CA,Daily Paper,Save-It Sale,81.79
+27321,S,F,1.0,High School Degree,Silver,Manual,N,3.0,$50K - $70K,0.0,Salem,OR,Radio,Double Down Sale,50.79
+17093,M,M,2.0,High School Degree,Bronze,Professional,Y,3.0,$70K - $90K,2.0,Tacoma,WA,In-Store Coupon,Price Winners,94.63
+53334,M,F,4.0,High School Degree,Normal,Skilled Manual,N,3.0,$30K - $50K,1.0,Salem,OR,"Daily Paper, Radio",Cash Register Lottery,59.86
+59732,M,M,0.0,High School Degree,Bronze,Skilled Manual,Y,1.0,$30K - $50K,0.0,Los Angeles,CA,"Sunday Paper, Radio",Price Winners,122.51
+12656,M,M,2.0,Bachelors Degree,Bronze,Professional,Y,3.0,$50K - $70K,1.0,Spokane,WA,Street Handout,Go For It,97.45
+34330,S,M,3.0,Partial High School,Bronze,Manual,N,3.0,$50K - $70K,0.0,Beverly Hills,CA,Sunday Paper,Pick Your Savings,67.25
+30224,S,F,3.0,High School Degree,Bronze,Professional,Y,4.0,$130K - $150K,0.0,Bremerton,WA,Sunday Paper,Shelf Clearing Days,106.1
+12742,S,M,0.0,Partial High School,Normal,Skilled Manual,Y,0.0,$10K - $30K,0.0,Portland,OR,Sunday Paper,Price Slashers,67.2
+49580,S,M,3.0,Partial High School,Normal,Manual,Y,2.0,$10K - $30K,0.0,Seattle,WA,"Daily Paper, Radio, TV",Sales Galore,145.41
+4019,M,M,5.0,Bachelors Degree,Bronze,Professional,Y,3.0,$50K - $70K,0.0,Beverly Hills,CA,Bulk Mail,Shelf Emptiers,117.86
+50010,S,F,2.0,Graduate Degree,Bronze,Professional,Y,3.0,$90K - $110K,0.0,Beverly Hills,CA,Daily Paper,Two for One,68.97
+4413,M,F,0.0,Bachelors Degree,Golden,Professional,N,2.0,$50K - $70K,0.0,Portland,OR,"Daily Paper, Radio, TV",Wallet Savers,53.13
+39236,M,F,3.0,Bachelors Degree,Bronze,Professional,N,4.0,$50K - $70K,2.0,Beverly Hills,CA,Cash Register Handout,Price Savers,128.2
+3254,M,F,2.0,Bachelors Degree,Bronze,Management,Y,2.0,$30K - $50K,2.0,Spokane,WA,In-Store Coupon,Big Time Discounts,59.4
+3291,M,F,4.0,Partial High School,Normal,Skilled Manual,Y,1.0,$10K - $30K,4.0,Spokane,WA,"Sunday Paper, Radio, TV",Wallet Savers,79.95
+17375,S,M,3.0,High School Degree,Bronze,Manual,N,2.0,$30K - $50K,0.0,Portland,OR,"Daily Paper, Radio",Saving Days,118.36
+14248,M,F,1.0,Partial High School,Normal,Skilled Manual,N,1.0,$10K - $30K,0.0,Seattle,WA,"Daily Paper, Radio, TV",Unbeatable Price Savers,137.77
+45162,M,F,1.0,Partial College,Bronze,Professional,Y,2.0,$30K - $50K,1.0,Tacoma,WA,"Sunday Paper, Radio",Dollar Cutters,136.74
+1572,M,M,4.0,High School Degree,Bronze,Manual,N,3.0,$30K - $50K,4.0,Portland,OR,Cash Register Handout,Money Savers,53.01
+45371,S,M,2.0,Partial High School,Bronze,Manual,N,3.0,$30K - $50K,0.0,Spokane,WA,"Sunday Paper, Radio",Savings Galore,136.57
+43607,S,M,1.0,Bachelors Degree,Normal,Professional,N,1.0,$50K - $70K,0.0,San Francisco,CA,Sunday Paper,Price Cutters,69.42
+7835,S,F,1.0,High School Degree,Normal,Manual,N,2.0,$30K - $50K,0.0,Los Angeles,CA,Daily Paper,Double Down Sale,55.96
+22902,M,M,4.0,Partial High School,Normal,Skilled Manual,N,1.0,$10K - $30K,4.0,Seattle,WA,Bulk Mail,Unbeatable Price Savers,66.78
+16887,S,M,4.0,Partial High School,Normal,Manual,Y,2.0,$10K - $30K,0.0,Seattle,WA,"Daily Paper, Radio, TV",Unbeatable Price Savers,137.77

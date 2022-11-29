@@ -1,0 +1,1560 @@
+product_id,brand_name,food_category,food_department,food_family,SRP,gross_weight,net_weight,recyclable_package,low_fat,units_per_case
+prod0,Carrington,Breakfast Foods,Frozen Foods,Food,1.84,19.7,17.7,1,0,17
+prod4,Golden,Breakfast Foods,Frozen Foods,Food,1.36,7.12,5.11,0,1,29
+prod7,Imagine,Breakfast Foods,Frozen Foods,Food,1.87,16.7,14.7,1,1,10
+prod9,Big Time,Breakfast Foods,Frozen Foods,Food,3.24,16.3,14.2,1,0,25
+prod11,PigTail,Breakfast Foods,Frozen Foods,Food,1.64,14.1,13.1,0,1,25
+prod127,Fantastic,Bread,Baked Goods,Food,2.99,13.5,11.5,1,0,23
+prod128,Great,Bread,Baked Goods,Food,3.27,17.4,14.3,1,0,35
+prod130,Great,Bread,Baked Goods,Food,0.93,13.6,11.6,1,0,30
+prod131,Sphinx,Bread,Baked Goods,Food,1.32,17.8,15.7,0,0,25
+prod132,Modell,Bread,Baked Goods,Food,1.56,21.9,19.8,1,1,31
+prod133,Modell,Bread,Baked Goods,Food,1.26,10.3,9.3,1,1,10
+prod135,Sphinx,Bread,Baked Goods,Food,2.93,18.9,16.8,1,0,31
+prod138,Fantastic,Bread,Baked Goods,Food,0.97,9.8,8.8,1,0,18
+prod139,Colony,Bread,Baked Goods,Food,1.87,12.0,10.0,1,0,26
+prod140,Great,Bread,Baked Goods,Food,3.74,8.5,7.5,0,1,21
+prod142,Colony,Bread,Baked Goods,Food,3.27,7.71,5.71,0,0,18
+prod143,Colony,Bread,Baked Goods,Food,1.42,18.9,16.8,1,0,2
+prod145,Sphinx,Bread,Baked Goods,Food,1.95,10.1,7.1,1,1,35
+prod150,Great,Bread,Baked Goods,Food,3.86,6.2,5.19,1,1,11
+prod151,Modell,Bread,Baked Goods,Food,0.51,11.7,8.69,1,0,6
+prod154,Sphinx,Bread,Baked Goods,Food,0.53,8.16,6.15,1,1,33
+prod156,Modell,Bread,Baked Goods,Food,3.93,15.5,13.5,1,1,23
+prod158,Colony,Bread,Baked Goods,Food,2.18,8.08,5.07,0,1,21
+prod163,Fantastic,Bread,Baked Goods,Food,1.55,10.6,8.6,0,1,13
+prod185,Fantastic,Bread,Baked Goods,Food,2.52,21.4,18.3,1,1,4
+prod626,Blue Label,Canned Shrimp,Canned Foods,Food,2.86,8.86,6.85,0,0,2
+prod628,Pleasant,Canned Shrimp,Canned Foods,Food,2.77,16.0,14.0,0,1,13
+prod629,Bravo,Canned Shrimp,Canned Foods,Food,2.17,10.8,7.8,0,0,29
+prod631,Better,Canned Shrimp,Canned Foods,Food,2.3,8.55,6.55,0,0,29
+prod633,Just Right,Canned Shrimp,Canned Foods,Food,3.11,13.9,12.8,0,1,3
+prod741,Plato,Baking Goods,Baking Goods,Food,1.13,7.95,6.94,0,0,5
+prod742,BBB Best,Baking Goods,Baking Goods,Food,2.97,13.5,11.5,0,1,15
+prod744,Landslide,Baking Goods,Baking Goods,Food,2.14,15.9,13.8,1,0,3
+prod746,Super,Baking Goods,Baking Goods,Food,1.81,7.64,5.63,0,1,23
+prod747,Super,Baking Goods,Baking Goods,Food,1.32,10.9,7.89,0,1,30
+prod748,Landslide,Baking Goods,Baking Goods,Food,1.23,16.5,14.5,1,1,19
+prod750,Plato,Baking Goods,Baking Goods,Food,0.77,13.4,10.3,1,1,26
+prod751,Super,Baking Goods,Baking Goods,Food,2.73,17.5,14.5,1,1,3
+prod752,CDR,Baking Goods,Baking Goods,Food,2.48,20.4,18.3,1,1,25
+prod753,BBB Best,Baking Goods,Baking Goods,Food,1.84,15.4,14.3,0,1,13
+prod755,BBB Best,Baking Goods,Baking Goods,Food,1.35,16.1,14.1,0,0,30
+prod756,Plato,Baking Goods,Baking Goods,Food,1.49,21.7,19.7,0,1,19
+prod758,Plato,Baking Goods,Baking Goods,Food,1.3,14.5,12.5,1,0,32
+prod759,Landslide,Baking Goods,Baking Goods,Food,0.58,7.27,4.26,1,0,4
+prod760,BBB Best,Baking Goods,Baking Goods,Food,1.54,15.5,13.5,1,1,4
+prod762,Super,Baking Goods,Baking Goods,Food,2.22,9.24,7.23,0,0,32
+prod772,CDR,Baking Goods,Baking Goods,Food,3.52,21.4,19.3,1,0,8
+prod780,CDR,Baking Goods,Baking Goods,Food,1.39,8.7,7.69,0,0,8
+prod791,CDR,Baking Goods,Baking Goods,Food,2.95,21.2,18.2,1,1,19
+prod799,Landslide,Baking Goods,Baking Goods,Food,2.36,21.2,20.2,1,0,31
+prod1239,High Top,Vegetables,Produce,Food,2.87,12.6,9.6,1,0,22
+prod1240,Tri-State,Vegetables,Produce,Food,1.16,17.1,15.1,1,0,18
+prod1241,Tri-State,Vegetables,Produce,Food,1.55,14.0,11.0,1,0,25
+prod1242,Tri-State,Vegetables,Produce,Food,1.96,8.17,6.17,0,1,7
+prod1243,Tri-State,Vegetables,Produce,Food,2.62,12.8,11.8,0,1,22
+prod1244,High Top,Vegetables,Produce,Food,0.63,8.85,5.85,1,0,27
+prod1246,High Top,Vegetables,Produce,Food,2.75,19.7,18.7,0,1,2
+prod1247,Hermanos,Vegetables,Produce,Food,1.31,14.6,13.6,1,0,2
+prod1249,Tell Tale,Vegetables,Produce,Food,1.36,13.5,11.5,0,1,19
+prod1250,Ebony,Vegetables,Produce,Food,2.65,10.8,8.8,0,0,21
+prod1251,Ebony,Vegetables,Produce,Food,2.88,16.9,13.8,0,1,14
+prod1252,Tell Tale,Vegetables,Produce,Food,2.19,14.5,12.5,0,1,23
+prod1253,Tell Tale,Vegetables,Produce,Food,3.64,8.35,6.35,0,1,4
+prod1255,Hermanos,Vegetables,Produce,Food,2.18,18.3,17.2,0,0,17
+prod1256,Hermanos,Vegetables,Produce,Food,0.93,18.3,16.2,1,1,30
+prod1257,Hermanos,Vegetables,Produce,Food,3.91,17.2,15.2,1,0,11
+prod1258,Tri-State,Vegetables,Produce,Food,2.5,6.66,4.65,1,0,1
+prod1259,Ebony,Vegetables,Produce,Food,1.2,7.26,6.26,0,1,21
+prod1260,High Top,Vegetables,Produce,Food,1.71,13.4,11.3,1,0,22
+prod1261,Ebony,Vegetables,Produce,Food,0.57,21.7,19.7,1,0,22
+prod1262,Tri-State,Vegetables,Produce,Food,1.34,10.3,8.3,0,0,27
+prod1263,Tri-State,Vegetables,Produce,Food,3.87,9.55,6.55,1,1,29
+prod1264,Hermanos,Vegetables,Produce,Food,1.8,8.22,7.22,0,0,12
+prod1267,Hermanos,Vegetables,Produce,Food,0.92,13.8,12.8,1,1,33
+prod1268,Tell Tale,Vegetables,Produce,Food,0.73,18.7,16.7,0,1,25
+prod1270,Tell Tale,Vegetables,Produce,Food,1.81,20.9,17.8,1,1,35
+prod1271,Tell Tale,Vegetables,Produce,Food,2.96,13.9,11.8,1,0,28
+prod1272,Tell Tale,Vegetables,Produce,Food,1.77,20.3,19.2,0,0,12
+prod1275,High Top,Vegetables,Produce,Food,2.27,12.1,10.1,1,0,29
+prod1276,Tri-State,Vegetables,Produce,Food,2.61,17.6,15.6,1,0,32
+prod1277,Ebony,Vegetables,Produce,Food,2.84,20.8,18.7,1,0,30
+prod1278,Hermanos,Vegetables,Produce,Food,2.4,7.06,5.05,1,0,29
+prod1279,Tri-State,Vegetables,Produce,Food,3.17,7.66,5.65,1,0,25
+prod1280,High Top,Vegetables,Produce,Food,0.69,12.3,11.3,0,0,17
+prod1281,Hermanos,Vegetables,Produce,Food,3.36,18.7,15.7,1,1,33
+prod1282,Ebony,Vegetables,Produce,Food,2.83,20.0,18.0,1,1,31
+prod1283,Tri-State,Vegetables,Produce,Food,0.81,6.63,5.63,1,0,21
+prod1285,High Top,Vegetables,Produce,Food,1.66,10.5,8.5,0,0,19
+prod1286,Tri-State,Vegetables,Produce,Food,0.55,19.2,17.2,0,0,16
+prod1287,Hermanos,Vegetables,Produce,Food,2.89,8.68,6.68,0,0,36
+prod1289,Hermanos,Vegetables,Produce,Food,3.27,16.1,14.1,1,0,31
+prod1290,Hermanos,Vegetables,Produce,Food,2.82,9.75,7.75,1,1,4
+prod1292,Ebony,Vegetables,Produce,Food,2.21,7.48,4.48,0,0,6
+prod1293,High Top,Vegetables,Produce,Food,1.84,9.05,6.05,0,1,11
+prod1294,Tell Tale,Vegetables,Produce,Food,2.55,11.9,10.8,1,1,28
+prod1295,High Top,Vegetables,Produce,Food,3.74,18.7,17.7,1,1,29
+prod1297,Ebony,Vegetables,Produce,Food,2.71,14.6,11.6,0,1,6
+prod1300,Ebony,Vegetables,Produce,Food,3.34,20.9,18.8,1,0,28
+prod1301,Tell Tale,Vegetables,Produce,Food,1.17,9.22,6.22,1,0,8
+prod1302,High Top,Vegetables,Produce,Food,3.85,6.82,4.82,1,1,16
+prod1303,Hermanos,Vegetables,Produce,Food,2.84,13.7,10.6,0,1,11
+prod1305,Tri-State,Vegetables,Produce,Food,3.42,20.6,19.6,1,1,36
+prod1306,High Top,Vegetables,Produce,Food,2.58,14.7,11.6,1,1,14
+prod1307,Tell Tale,Vegetables,Produce,Food,2.41,16.4,13.3,1,1,12
+prod1310,Tri-State,Vegetables,Produce,Food,2.43,18.8,17.7,1,0,21
+prod1311,Ebony,Vegetables,Produce,Food,0.96,21.6,20.6,0,1,12
+prod1313,Tell Tale,Vegetables,Produce,Food,3.51,19.6,18.6,1,0,14
+prod1316,Tri-State,Vegetables,Produce,Food,3.58,19.9,18.8,0,1,4
+prod1317,Tri-State,Vegetables,Produce,Food,2.53,15.9,13.8,1,0,33
+prod1321,Hermanos,Vegetables,Produce,Food,2.63,16.2,14.2,0,1,30
+prod1322,High Top,Vegetables,Produce,Food,3.4,20.0,18.0,1,1,22
+prod1325,High Top,Vegetables,Produce,Food,3.45,8.51,6.51,1,0,4
+prod1326,High Top,Vegetables,Produce,Food,1.33,19.5,16.5,1,1,25
+prod1328,Tri-State,Vegetables,Produce,Food,1.71,16.1,15.1,0,0,21
+prod1329,Tri-State,Vegetables,Produce,Food,0.74,15.2,14.1,1,0,30
+prod1331,Ebony,Vegetables,Produce,Food,2.6,8.1,6.1,1,0,32
+prod1333,Tri-State,Vegetables,Produce,Food,2.8,12.7,10.6,0,0,19
+prod1334,Ebony,Vegetables,Produce,Food,3.51,21.4,19.3,0,1,18
+prod1336,Tri-State,Vegetables,Produce,Food,0.67,17.5,14.5,0,0,30
+prod1338,Hermanos,Vegetables,Produce,Food,1.73,15.2,12.1,0,1,32
+prod1339,Hermanos,Vegetables,Produce,Food,3.86,17.3,16.2,0,0,34
+prod1341,High Top,Vegetables,Produce,Food,2.23,18.7,17.7,0,0,20
+prod1342,Hermanos,Vegetables,Produce,Food,1.74,11.3,8.3,0,1,30
+prod1343,Ebony,Vegetables,Produce,Food,2.97,17.4,15.3,1,0,26
+prod1346,High Top,Vegetables,Produce,Food,1.52,10.7,7.69,0,1,4
+prod1347,Ebony,Vegetables,Produce,Food,1.39,19.4,17.3,1,0,6
+prod1350,Tell Tale,Vegetables,Produce,Food,1.45,17.1,15.1,1,1,13
+prod1353,Tell Tale,Vegetables,Produce,Food,2.6,9.09,6.09,0,1,5
+prod1354,Ebony,Vegetables,Produce,Food,1.32,6.29,5.28,1,1,28
+prod1355,Ebony,Vegetables,Produce,Food,2.17,15.6,14.6,0,1,21
+prod1360,Tri-State,Vegetables,Produce,Food,1.57,21.4,20.3,0,0,12
+prod1370,High Top,Vegetables,Produce,Food,1.43,21.9,20.8,0,0,13
+prod1371,Hermanos,Vegetables,Produce,Food,3.74,13.1,12.1,0,1,21
+prod1375,Tell Tale,Vegetables,Produce,Food,1.86,21.2,20.2,0,1,31
+prod1378,Ebony,Vegetables,Produce,Food,1.45,14.3,11.3,1,0,30
+prod1379,Ebony,Vegetables,Produce,Food,2.99,12.4,10.3,1,1,30
+prod1381,Tell Tale,Vegetables,Produce,Food,1.87,14.7,13.6,1,0,10
+prod1384,Hermanos,Vegetables,Produce,Food,2.81,10.7,8.69,0,0,9
+prod1390,Tell Tale,Vegetables,Produce,Food,2.66,17.0,14.0,0,1,11
+prod1393,Tell Tale,Vegetables,Produce,Food,1.93,9.02,6.02,1,0,27
+prod1397,Tell Tale,Vegetables,Produce,Food,1.14,14.8,12.8,1,1,18
+prod1401,Tri-State,Vegetables,Produce,Food,3.64,12.0,10.0,1,1,11
+prod1404,High Top,Vegetables,Produce,Food,2.41,7.06,5.05,1,0,22
+prod1408,Tell Tale,Vegetables,Produce,Food,2.64,7.43,5.42,1,0,23
+prod1409,Tri-State,Vegetables,Produce,Food,2.93,11.9,9.89,1,0,15
+prod1414,Tri-State,Vegetables,Produce,Food,0.78,17.9,14.8,1,0,15
+prod1428,Hermanos,Vegetables,Produce,Food,1.37,8.33,6.32,0,0,1
+prod1440,Hermanos,Vegetables,Produce,Food,1.5,9.99,7.98,0,0,11
+prod1454,Hermanos,Vegetables,Produce,Food,2.37,14.1,13.1,0,1,22
+prod1460,High Top,Vegetables,Produce,Food,2.95,18.7,17.7,0,0,30
+prod1465,Hermanos,Vegetables,Produce,Food,1.83,9.71,8.71,1,0,6
+prod1469,Ebony,Vegetables,Produce,Food,1.73,18.7,16.7,0,0,3
+prod1483,Ebony,Vegetables,Produce,Food,3.26,11.5,9.5,1,1,16
+prod1502,Tell Tale,Vegetables,Produce,Food,3.17,20.1,18.1,1,0,24
+prod1521,Hermanos,Vegetables,Produce,Food,2.72,17.2,16.2,0,1,28
+prod1524,High Top,Vegetables,Produce,Food,3.32,16.1,14.1,0,1,3
+prod1535,Ebony,Vegetables,Produce,Food,1.41,21.1,20.1,0,0,33
+prod1550,High Top,Vegetables,Produce,Food,0.93,16.1,14.1,0,1,23
+prod1551,Tell Tale,Vegetables,Produce,Food,1.94,13.0,10.0,1,0,3
+prod1553,High Top,Vegetables,Produce,Food,1.24,13.5,11.5,1,1,7
+prod1575,Tell Tale,Vegetables,Produce,Food,1.65,13.4,11.3,0,1,24
+prod1584,High Top,Vegetables,Produce,Food,1.32,14.8,13.8,0,1,15
+prod1610,Tell Tale,Vegetables,Produce,Food,0.84,11.2,10.1,0,0,31
+prod1617,High Top,Vegetables,Produce,Food,0.57,9.3,7.3,1,0,24
+prod1633,Ebony,Vegetables,Produce,Food,1.22,18.7,16.7,1,1,4
+prod1649,Tri-State,Vegetables,Produce,Food,2.21,19.6,18.6,1,1,33
+prod1662,Ebony,Vegetables,Produce,Food,2.19,7.96,4.96,1,1,8
+prod1702,Tell Tale,Vegetables,Produce,Food,2.59,9.77,7.77,1,1,20
+prod1727,Hermanos,Vegetables,Produce,Food,2.23,8.02,6.02,1,0,1
+prod2274,Ebony,Vegetables,Produce,Food,2.85,12.0,11.0,0,0,26
+prod4284,PigTail,Frozen Desserts,Frozen Foods,Food,1.32,17.0,15.0,0,1,14
+prod4285,Carrington,Frozen Desserts,Frozen Foods,Food,0.69,14.7,12.6,1,0,14
+prod4286,PigTail,Frozen Desserts,Frozen Foods,Food,1.28,15.3,13.3,1,0,8
+prod4287,Big Time,Frozen Desserts,Frozen Foods,Food,3.13,10.4,7.39,1,0,13
+prod4288,Imagine,Frozen Desserts,Frozen Foods,Food,0.88,12.2,9.19,0,0,30
+prod4289,Golden,Frozen Desserts,Frozen Foods,Food,1.13,9.35,7.35,0,1,35
+prod4291,Golden,Frozen Desserts,Frozen Foods,Food,3.88,18.0,17.0,1,0,11
+prod4292,Carrington,Frozen Desserts,Frozen Foods,Food,2.9,12.5,10.5,0,1,11
+prod4296,PigTail,Frozen Desserts,Frozen Foods,Food,1.22,12.6,10.6,0,1,23
+prod4297,Carrington,Frozen Desserts,Frozen Foods,Food,1.81,11.5,9.5,1,0,6
+prod4298,Imagine,Frozen Desserts,Frozen Foods,Food,2.94,19.3,17.2,0,0,34
+prod4301,Golden,Frozen Desserts,Frozen Foods,Food,1.95,9.49,8.48,1,1,6
+prod4304,Big Time,Frozen Desserts,Frozen Foods,Food,0.51,8.25,7.25,1,1,33
+prod4306,Imagine,Frozen Desserts,Frozen Foods,Food,2.83,20.2,18.2,0,1,27
+prod4308,Carrington,Frozen Desserts,Frozen Foods,Food,1.67,20.2,18.2,0,0,21
+prod4310,Golden,Frozen Desserts,Frozen Foods,Food,2.45,18.2,17.2,0,1,16
+prod4317,Imagine,Frozen Desserts,Frozen Foods,Food,0.63,19.1,16.1,0,0,10
+prod4322,Big Time,Frozen Desserts,Frozen Foods,Food,1.47,17.2,15.2,0,1,5
+prod4340,Big Time,Frozen Desserts,Frozen Foods,Food,2.25,18.4,17.3,1,0,28
+prod4345,PigTail,Frozen Desserts,Frozen Foods,Food,0.74,16.5,14.5,0,1,5
+prod4820,Thresher,Candy,Snacks,Food,1.87,18.8,17.7,1,0,4
+prod4821,Gulf Coast,Candy,Snacks,Food,1.59,21.8,19.7,1,0,10
+prod4824,Musial,Candy,Snacks,Food,3.43,16.0,14.0,0,0,13
+prod4825,Atomic,Candy,Snacks,Food,0.66,17.9,15.8,1,1,9
+prod4826,Thresher,Candy,Snacks,Food,1.58,10.3,8.3,1,0,7
+prod4827,Atomic,Candy,Snacks,Food,0.9,10.9,9.89,1,0,9
+prod4828,Atomic,Candy,Snacks,Food,2.35,15.9,13.8,1,1,35
+prod4829,Atomic,Candy,Snacks,Food,1.25,10.4,8.39,0,0,31
+prod4830,Gulf Coast,Candy,Snacks,Food,2.94,21.9,19.8,1,0,22
+prod4831,Choice,Candy,Snacks,Food,0.56,11.6,8.6,0,1,33
+prod4832,Thresher,Candy,Snacks,Food,1.71,20.9,17.8,0,1,23
+prod4833,Choice,Candy,Snacks,Food,0.64,8.65,6.64,0,1,34
+prod4834,Gulf Coast,Candy,Snacks,Food,2.75,14.7,11.6,0,0,3
+prod4835,Musial,Candy,Snacks,Food,0.98,13.5,12.5,0,1,9
+prod4836,Gulf Coast,Candy,Snacks,Food,2.98,19.3,17.2,1,0,24
+prod4838,Musial,Candy,Snacks,Food,0.89,13.8,10.8,0,1,22
+prod4841,Choice,Candy,Snacks,Food,1.84,21.9,18.8,0,0,16
+prod4851,Thresher,Candy,Snacks,Food,2.49,11.5,9.5,1,1,26
+prod4867,Musial,Candy,Snacks,Food,2.1,19.7,16.7,1,0,33
+prod4871,Atomic,Candy,Snacks,Food,1.78,13.9,10.8,0,0,20
+prod4884,Choice,Candy,Snacks,Food,2.65,21.7,20.7,1,0,28
+prod4886,Thresher,Candy,Snacks,Food,3.44,17.5,16.5,1,1,26
+prod4892,Choice,Candy,Snacks,Food,0.89,18.2,15.2,0,1,34
+prod4905,Musial,Candy,Snacks,Food,2.81,19.6,17.6,0,0,3
+prod4908,Gulf Coast,Candy,Snacks,Food,2.81,7.11,6.11,1,1,3
+prod5434,Fort West,Snack Foods,Snack Foods,Food,1.39,7.18,6.17,0,0,14
+prod5435,Nationeel,Snack Foods,Snack Foods,Food,2.12,17.0,15.0,1,0,15
+prod5436,Horatio,Snack Foods,Snack Foods,Food,1.54,7.71,6.71,1,1,25
+prod5437,Horatio,Snack Foods,Snack Foods,Food,2.84,11.1,8.1,0,1,22
+prod5438,Nationeel,Snack Foods,Snack Foods,Food,3.58,14.4,12.3,1,0,5
+prod5439,Fort West,Snack Foods,Snack Foods,Food,1.68,18.4,15.3,0,1,17
+prod5441,Horatio,Snack Foods,Snack Foods,Food,1.79,18.6,16.6,1,1,27
+prod5442,Best Choice,Snack Foods,Snack Foods,Food,1.49,9.9,6.89,0,0,19
+prod5443,Best Choice,Snack Foods,Snack Foods,Food,2.44,18.6,16.6,0,0,14
+prod5444,Best Choice,Snack Foods,Snack Foods,Food,3.21,18.8,17.7,1,0,22
+prod5445,Best Choice,Snack Foods,Snack Foods,Food,1.78,13.0,10.0,0,0,17
+prod5446,Fast,Snack Foods,Snack Foods,Food,0.8,15.0,13.0,0,1,21
+prod5447,Fort West,Snack Foods,Snack Foods,Food,2.3,8.32,6.31,0,0,23
+prod5448,Fast,Snack Foods,Snack Foods,Food,3.14,13.1,12.1,1,0,34
+prod5449,Horatio,Snack Foods,Snack Foods,Food,1.68,9.01,6.01,1,0,32
+prod5450,Fast,Snack Foods,Snack Foods,Food,3.78,19.9,17.8,0,1,20
+prod5452,Fort West,Snack Foods,Snack Foods,Food,3.48,15.3,12.3,1,1,12
+prod5453,Horatio,Snack Foods,Snack Foods,Food,1.35,16.4,14.3,1,0,6
+prod5456,Horatio,Snack Foods,Snack Foods,Food,1.77,20.9,19.8,1,0,15
+prod5457,Horatio,Snack Foods,Snack Foods,Food,1.4,7.87,6.86,0,0,27
+prod5458,Fort West,Snack Foods,Snack Foods,Food,1.52,12.4,10.3,1,1,23
+prod5461,Fort West,Snack Foods,Snack Foods,Food,2.41,9.79,8.78,1,1,19
+prod5462,Horatio,Snack Foods,Snack Foods,Food,0.76,12.4,10.3,0,0,8
+prod5464,Nationeel,Snack Foods,Snack Foods,Food,2.54,17.1,14.1,1,1,9
+prod5468,Nationeel,Snack Foods,Snack Foods,Food,2.52,19.2,16.2,0,0,9
+prod5473,Best Choice,Snack Foods,Snack Foods,Food,1.59,20.0,18.0,0,0,28
+prod5474,Nationeel,Snack Foods,Snack Foods,Food,2.79,9.63,7.63,1,0,22
+prod5475,Nationeel,Snack Foods,Snack Foods,Food,1.97,20.0,18.0,1,0,9
+prod5477,Fast,Snack Foods,Snack Foods,Food,1.2,15.0,12.0,0,1,5
+prod5478,Horatio,Snack Foods,Snack Foods,Food,2.2,17.9,15.8,1,0,8
+prod5484,Nationeel,Snack Foods,Snack Foods,Food,1.88,12.3,11.3,1,1,23
+prod5486,Best Choice,Snack Foods,Snack Foods,Food,0.86,14.7,12.6,1,1,26
+prod5488,Fast,Snack Foods,Snack Foods,Food,0.77,15.7,13.6,1,1,9
+prod5494,Fast,Snack Foods,Snack Foods,Food,2.88,19.3,18.2,1,0,18
+prod5499,Best Choice,Snack Foods,Snack Foods,Food,2.11,6.6,3.59,1,1,6
+prod5501,Best Choice,Snack Foods,Snack Foods,Food,2.7,7.29,4.28,1,1,22
+prod5502,Fort West,Snack Foods,Snack Foods,Food,3.96,6.78,4.78,0,1,13
+prod5503,Nationeel,Snack Foods,Snack Foods,Food,2.35,13.4,12.3,0,0,17
+prod5512,Fast,Snack Foods,Snack Foods,Food,1.36,18.4,15.3,0,0,18
+prod5514,Fast,Snack Foods,Snack Foods,Food,0.59,17.8,15.7,0,0,21
+prod5516,Fast,Snack Foods,Snack Foods,Food,3.25,11.3,8.3,1,0,24
+prod5538,Nationeel,Snack Foods,Snack Foods,Food,3.46,11.2,10.1,0,1,26
+prod5575,Best Choice,Snack Foods,Snack Foods,Food,2.59,13.4,12.3,0,0,18
+prod5652,Fort West,Snack Foods,Snack Foods,Food,3.29,12.1,10.1,0,0,16
+prod5669,Fort West,Snack Foods,Snack Foods,Food,2.47,20.1,19.1,0,0,34
+prod6551,Gorilla,Dairy,Dairy,Food,3.29,8.86,6.85,1,1,5
+prod6552,Carlson,Dairy,Dairy,Food,3.75,19.3,16.2,0,0,30
+prod6554,Even Better,Dairy,Dairy,Food,0.72,12.0,9.0,1,1,12
+prod6555,Carlson,Dairy,Dairy,Food,1.13,14.1,12.1,1,0,15
+prod6556,Gorilla,Dairy,Dairy,Food,3.18,21.1,20.1,1,1,30
+prod6559,Club,Dairy,Dairy,Food,3.44,14.4,12.3,1,0,19
+prod6560,Booker,Dairy,Dairy,Food,2.51,14.1,12.1,1,0,15
+prod6561,Gorilla,Dairy,Dairy,Food,3.59,13.1,10.1,1,1,24
+prod6562,Gorilla,Dairy,Dairy,Food,2.74,18.2,17.2,0,0,13
+prod6563,Booker,Dairy,Dairy,Food,1.45,17.3,15.2,1,0,19
+prod6564,Even Better,Dairy,Dairy,Food,1.79,8.89,6.89,0,0,7
+prod6566,Booker,Dairy,Dairy,Food,0.94,8.42,5.42,1,0,25
+prod6567,Gorilla,Dairy,Dairy,Food,2.93,20.8,19.7,1,1,29
+prod6569,Gorilla,Dairy,Dairy,Food,1.8,19.4,18.3,1,1,3
+prod6570,Carlson,Dairy,Dairy,Food,1.31,9.8,6.8,1,1,20
+prod6571,Carlson,Dairy,Dairy,Food,1.82,8.71,6.71,1,1,22
+prod6572,Gorilla,Dairy,Dairy,Food,3.93,21.9,18.8,1,0,27
+prod6576,Club,Dairy,Dairy,Food,3.38,17.0,15.0,0,0,30
+prod6579,Club,Dairy,Dairy,Food,2.57,17.8,15.7,1,0,21
+prod6580,Booker,Dairy,Dairy,Food,1.34,6.3,5.3,1,0,22
+prod6581,Even Better,Dairy,Dairy,Food,3.61,6.94,3.94,1,0,11
+prod6583,Even Better,Dairy,Dairy,Food,3.12,7.91,6.9,1,0,13
+prod6584,Club,Dairy,Dairy,Food,2.17,14.5,13.5,1,1,27
+prod6585,Booker,Dairy,Dairy,Food,1.85,14.8,13.8,1,0,19
+prod6590,Even Better,Dairy,Dairy,Food,0.81,6.33,4.32,1,1,20
+prod6592,Even Better,Dairy,Dairy,Food,2.59,18.6,16.6,0,0,15
+prod6593,Club,Dairy,Dairy,Food,2.93,9.58,7.57,0,1,15
+prod6600,Booker,Dairy,Dairy,Food,1.66,21.6,18.6,1,0,30
+prod6601,Carlson,Dairy,Dairy,Food,3.96,11.9,9.89,1,0,29
+prod6602,Even Better,Dairy,Dairy,Food,3.5,14.6,12.6,0,1,21
+prod6608,Gorilla,Dairy,Dairy,Food,3.34,13.3,10.3,1,1,20
+prod6614,Even Better,Dairy,Dairy,Food,3.25,17.2,16.2,1,0,15
+prod6618,Carlson,Dairy,Dairy,Food,2.2,17.1,15.1,0,0,7
+prod6619,Booker,Dairy,Dairy,Food,0.68,12.2,10.1,0,0,6
+prod6625,Club,Dairy,Dairy,Food,3.95,9.95,7.94,0,1,36
+prod6629,Carlson,Dairy,Dairy,Food,1.8,12.2,9.19,1,1,17
+prod6634,Club,Dairy,Dairy,Food,1.47,8.41,5.4,0,1,9
+prod6635,Club,Dairy,Dairy,Food,3.61,18.8,16.7,1,1,18
+prod6643,Carlson,Dairy,Dairy,Food,3.97,10.8,9.8,0,0,26
+prod6646,Even Better,Dairy,Dairy,Food,0.84,13.1,10.1,1,0,18
+prod6649,Booker,Dairy,Dairy,Food,1.85,11.9,9.89,1,1,10
+prod6660,Booker,Dairy,Dairy,Food,2.76,13.8,11.8,1,1,16
+prod6669,Club,Dairy,Dairy,Food,1.88,6.31,3.3,1,1,17
+prod6687,Gorilla,Dairy,Dairy,Food,1.79,18.2,15.2,1,1,14
+prod6719,Carlson,Dairy,Dairy,Food,1.32,20.9,18.8,1,0,16
+prod7648,Shady Lake,Starchy Foods,Starchy Foods,Food,0.7,18.6,16.6,1,1,11
+prod7649,Monarch,Starchy Foods,Starchy Foods,Food,1.8,13.2,11.1,0,0,24
+prod7650,Discover,Starchy Foods,Starchy Foods,Food,2.47,19.3,17.2,0,0,9
+prod7651,Discover,Starchy Foods,Starchy Foods,Food,2.73,14.5,13.5,1,0,27
+prod7653,Colossal,Starchy Foods,Starchy Foods,Food,1.46,15.0,12.0,1,1,31
+prod7655,Colossal,Starchy Foods,Starchy Foods,Food,3.94,14.3,11.3,1,0,3
+prod7656,Shady Lake,Starchy Foods,Starchy Foods,Food,2.81,11.0,8.0,1,1,26
+prod7664,Monarch,Starchy Foods,Starchy Foods,Food,3.11,8.44,6.43,0,0,7
+prod7665,Medalist,Starchy Foods,Starchy Foods,Food,2.78,18.7,16.7,1,1,24
+prod7668,Medalist,Starchy Foods,Starchy Foods,Food,3.61,10.7,9.69,1,1,6
+prod7682,Jardon,Starchy Foods,Starchy Foods,Food,0.58,17.4,14.3,0,0,32
+prod7691,Jardon,Starchy Foods,Starchy Foods,Food,1.9,13.5,11.5,1,0,33
+prod7940,Cormorant,Cleaning Supplies,Household,Non-Consumable,3.89,6.21,4.21,1,0,17
+prod7941,Sunset,Cleaning Supplies,Household,Non-Consumable,2.44,15.7,13.6,1,0,11
+prod7942,Red Wing,Cleaning Supplies,Household,Non-Consumable,2.95,15.2,13.1,0,0,35
+prod7947,High Quality,Cleaning Supplies,Household,Non-Consumable,2.38,7.97,5.96,1,0,21
+prod7959,Denny,Cleaning Supplies,Household,Non-Consumable,1.96,16.8,13.7,1,0,16
+prod8058,Faux Products,Decongestants,Health and Hygiene,Non-Consumable,1.61,20.8,19.7,1,0,22
+prod8059,Steady,Decongestants,Health and Hygiene,Non-Consumable,1.93,19.5,16.5,1,0,35
+prod8060,Consolidated,Decongestants,Health and Hygiene,Non-Consumable,2.2,9.19,6.18,1,0,6
+prod8061,Bird Call,Decongestants,Health and Hygiene,Non-Consumable,0.54,17.3,16.2,1,0,15
+prod8062,Consolidated,Decongestants,Health and Hygiene,Non-Consumable,2.67,12.8,10.8,1,0,16
+prod8064,Steady,Decongestants,Health and Hygiene,Non-Consumable,1.97,19.9,17.8,0,0,14
+prod8065,Faux Products,Decongestants,Health and Hygiene,Non-Consumable,1.74,16.7,13.7,1,0,10
+prod8066,Bird Call,Decongestants,Health and Hygiene,Non-Consumable,1.88,20.9,18.8,1,0,25
+prod8068,Hilltop,Decongestants,Health and Hygiene,Non-Consumable,1.68,21.5,18.5,1,0,22
+prod8080,Hilltop,Decongestants,Health and Hygiene,Non-Consumable,2.13,21.1,19.1,1,0,25
+prod8310,Ship Shape,Meat,Meat,Food,1.75,8.26,6.26,0,0,31
+prod8311,Footnote,Meat,Meat,Food,0.97,13.2,11.1,0,0,25
+prod8312,Genteel,Meat,Meat,Food,1.15,11.1,9.1,1,0,15
+prod8315,Footnote,Meat,Meat,Food,1.49,13.0,11.0,0,1,32
+prod8316,Quick,Meat,Meat,Food,3.64,15.6,14.6,1,0,22
+prod8317,Genteel,Meat,Meat,Food,1.9,11.3,8.3,1,0,34
+prod8318,Gerolli,Meat,Meat,Food,3.38,13.8,11.8,1,1,4
+prod8320,Quick,Meat,Meat,Food,2.61,20.9,17.8,1,0,6
+prod8327,Gerolli,Meat,Meat,Food,1.34,19.5,17.5,1,0,26
+prod8349,Ship Shape,Meat,Meat,Food,2.97,13.4,11.3,1,1,27
+prod8555,Super,Hot Beverages,Beverages,Drink,1.7,6.09,3.09,1,0,14
+prod8556,BBB Best,Hot Beverages,Beverages,Drink,2.57,15.2,13.1,1,0,6
+prod8557,Plato,Hot Beverages,Beverages,Drink,2.81,6.23,5.23,1,0,31
+prod8558,CDR,Hot Beverages,Beverages,Drink,2.29,9.52,7.52,0,0,31
+prod8559,Plato,Hot Beverages,Beverages,Drink,2.19,6.78,4.78,0,0,33
+prod8560,BBB Best,Hot Beverages,Beverages,Drink,2.87,17.1,15.1,0,0,34
+prod8561,BBB Best,Hot Beverages,Beverages,Drink,1.12,17.2,15.2,0,0,16
+prod8563,Super,Hot Beverages,Beverages,Drink,2.86,18.9,16.8,0,0,33
+prod8564,Super,Hot Beverages,Beverages,Drink,0.5,11.0,8.0,1,0,36
+prod8566,Landslide,Hot Beverages,Beverages,Drink,2.78,13.3,10.3,0,0,26
+prod8568,Plato,Hot Beverages,Beverages,Drink,2.96,9.43,7.43,1,0,32
+prod8573,Landslide,Hot Beverages,Beverages,Drink,2.31,18.9,16.8,1,0,3
+prod8576,CDR,Hot Beverages,Beverages,Drink,2.73,16.7,14.7,1,0,14
+prod8579,Plato,Hot Beverages,Beverages,Drink,0.56,16.7,13.7,0,0,33
+prod8583,CDR,Hot Beverages,Beverages,Drink,3.4,10.4,8.39,0,0,12
+prod8590,Landslide,Hot Beverages,Beverages,Drink,2.32,9.79,7.78,1,0,21
+prod8591,Super,Hot Beverages,Beverages,Drink,1.37,7.96,5.96,0,0,16
+prod8596,Landslide,Hot Beverages,Beverages,Drink,2.13,14.9,12.8,0,0,9
+prod8605,CDR,Hot Beverages,Beverages,Drink,3.58,11.3,10.3,1,0,35
+prod8615,BBB Best,Hot Beverages,Beverages,Drink,1.44,16.2,14.2,0,0,18
+prod9004,Even Better,Dairy,Dairy,Drink,1.15,21.7,19.7,0,0,35
+prod9005,Gorilla,Dairy,Dairy,Drink,3.69,14.3,13.3,1,0,3
+prod9006,Even Better,Dairy,Dairy,Drink,1.25,8.02,6.02,0,0,20
+prod9007,Gorilla,Dairy,Dairy,Drink,1.47,13.4,10.3,1,0,3
+prod9008,Even Better,Dairy,Dairy,Drink,3.29,21.8,18.7,1,0,23
+prod9009,Club,Dairy,Dairy,Drink,0.61,20.1,18.1,0,0,33
+prod9010,Booker,Dairy,Dairy,Drink,1.32,18.6,16.6,1,0,28
+prod9011,Club,Dairy,Dairy,Drink,0.71,20.6,18.6,1,0,21
+prod9012,Carlson,Dairy,Dairy,Drink,3.49,11.6,9.6,1,0,27
+prod9013,Club,Dairy,Dairy,Drink,2.31,15.5,13.5,0,0,18
+prod9014,Booker,Dairy,Dairy,Drink,3.46,15.1,13.1,1,0,13
+prod9015,Club,Dairy,Dairy,Drink,1.4,18.8,15.7,0,0,1
+prod9018,Carlson,Dairy,Dairy,Drink,2.3,19.4,17.3,0,0,31
+prod9019,Carlson,Dairy,Dairy,Drink,0.66,9.78,7.77,1,0,13
+prod9020,Gorilla,Dairy,Dairy,Drink,1.49,20.3,17.2,1,0,31
+prod9025,Club,Dairy,Dairy,Drink,2.66,7.03,5.03,0,0,2
+prod9028,Booker,Dairy,Dairy,Drink,2.58,18.3,16.2,0,0,14
+prod9029,Even Better,Dairy,Dairy,Drink,0.85,14.8,12.8,1,0,6
+prod9041,Booker,Dairy,Dairy,Drink,0.57,16.3,15.2,0,0,27
+prod9043,Carlson,Dairy,Dairy,Drink,1.14,14.4,12.3,0,0,13
+prod9045,Gorilla,Dairy,Dairy,Drink,0.61,10.4,7.39,1,0,14
+prod9049,Gorilla,Dairy,Dairy,Drink,2.3,9.43,8.43,1,0,20
+prod9053,Booker,Dairy,Dairy,Drink,2.47,13.1,11.1,0,0,29
+prod9055,Carlson,Dairy,Dairy,Drink,0.92,6.63,5.63,1,0,35
+prod9057,Even Better,Dairy,Dairy,Drink,0.79,15.7,12.6,0,0,6
+prod9611,Super,Jams and Jellies,Baking Goods,Food,0.53,10.8,8.8,0,1,22
+prod9612,Landslide,Jams and Jellies,Baking Goods,Food,2.65,11.3,9.3,0,0,20
+prod9613,Plato,Jams and Jellies,Baking Goods,Food,0.73,20.9,17.8,0,1,23
+prod9614,BBB Best,Jams and Jellies,Baking Goods,Food,2.8,7.54,4.53,0,1,6
+prod9615,Super,Jams and Jellies,Baking Goods,Food,2.18,8.82,7.81,0,1,24
+prod9616,CDR,Jams and Jellies,Baking Goods,Food,0.67,21.0,19.0,1,0,1
+prod9617,CDR,Jams and Jellies,Baking Goods,Food,1.2,15.4,13.3,1,0,15
+prod9618,Super,Jams and Jellies,Baking Goods,Food,0.76,10.8,8.8,1,1,29
+prod9619,BBB Best,Jams and Jellies,Baking Goods,Food,1.65,9.38,7.38,1,1,33
+prod9620,Super,Jams and Jellies,Baking Goods,Food,3.12,9.4,8.39,1,1,21
+prod9621,CDR,Jams and Jellies,Baking Goods,Food,1.46,17.0,16.0,1,1,34
+prod9622,Landslide,Jams and Jellies,Baking Goods,Food,1.39,9.36,7.35,1,0,22
+prod9623,Plato,Jams and Jellies,Baking Goods,Food,2.75,9.02,6.02,0,1,32
+prod9625,Plato,Jams and Jellies,Baking Goods,Food,3.33,12.6,11.6,1,0,25
+prod9626,Landslide,Jams and Jellies,Baking Goods,Food,2.27,7.14,5.13,1,1,24
+prod9627,Plato,Jams and Jellies,Baking Goods,Food,1.54,14.5,13.5,1,0,15
+prod9631,Landslide,Jams and Jellies,Baking Goods,Food,2.38,11.6,10.6,1,0,12
+prod9635,BBB Best,Jams and Jellies,Baking Goods,Food,0.56,8.86,6.85,1,1,25
+prod9638,BBB Best,Jams and Jellies,Baking Goods,Food,3.61,21.8,18.7,1,1,25
+prod9642,CDR,Jams and Jellies,Baking Goods,Food,1.81,7.7,4.69,0,1,17
+prod9647,BBB Best,Jams and Jellies,Baking Goods,Food,2.59,13.2,10.1,0,1,30
+prod9650,Plato,Jams and Jellies,Baking Goods,Food,2.28,12.7,10.6,1,0,6
+prod9656,Landslide,Jams and Jellies,Baking Goods,Food,2.25,6.14,5.13,0,0,3
+prod9663,Super,Jams and Jellies,Baking Goods,Food,1.68,16.6,14.6,0,0,27
+prod9802,CDR,Jams and Jellies,Baking Goods,Food,1.62,21.0,20.0,0,0,7
+prod10169,Excellent,Carbonated Beverages,Beverages,Drink,2.18,13.1,11.1,1,0,22
+prod10170,Fabulous,Carbonated Beverages,Beverages,Drink,2.47,18.6,16.6,1,0,1
+prod10172,Excellent,Carbonated Beverages,Beverages,Drink,0.96,15.5,14.5,0,0,29
+prod10173,Excellent,Carbonated Beverages,Beverages,Drink,1.31,7.28,5.28,1,0,22
+prod10174,Token,Carbonated Beverages,Beverages,Drink,1.7,7.64,4.63,1,0,31
+prod10175,Skinner,Carbonated Beverages,Beverages,Drink,3.67,8.31,7.31,1,0,7
+prod10177,Skinner,Carbonated Beverages,Beverages,Drink,1.24,20.7,18.7,1,0,14
+prod10182,Washington,Carbonated Beverages,Beverages,Drink,1.15,15.8,13.8,0,0,14
+prod10184,Excellent,Carbonated Beverages,Beverages,Drink,2.47,17.8,16.7,1,0,8
+prod10187,Token,Carbonated Beverages,Beverages,Drink,0.55,10.0,8.0,0,0,10
+prod10188,Fabulous,Carbonated Beverages,Beverages,Drink,0.88,16.4,15.3,1,0,17
+prod10189,Skinner,Carbonated Beverages,Beverages,Drink,1.71,8.77,5.77,1,0,27
+prod10190,Washington,Carbonated Beverages,Beverages,Drink,2.19,6.66,4.65,1,0,7
+prod10194,Fabulous,Carbonated Beverages,Beverages,Drink,2.28,12.3,9.3,0,0,5
+prod10201,Token,Carbonated Beverages,Beverages,Drink,1.29,6.73,4.73,0,0,9
+prod10204,Token,Carbonated Beverages,Beverages,Drink,1.4,16.4,14.3,1,0,12
+prod10205,Washington,Carbonated Beverages,Beverages,Drink,2.61,18.0,17.0,1,0,11
+prod10211,Skinner,Carbonated Beverages,Beverages,Drink,1.22,15.2,13.1,1,0,29
+prod10225,Washington,Carbonated Beverages,Beverages,Drink,3.64,10.6,9.6,1,0,26
+prod10244,Fabulous,Carbonated Beverages,Beverages,Drink,2.34,17.7,14.7,0,0,13
+prod10683,Dual City,Seafood,Seafood,Food,0.52,18.8,16.7,1,0,33
+prod10684,Kiwi,Seafood,Seafood,Food,2.25,18.4,16.3,1,1,31
+prod10686,Tip Top,Seafood,Seafood,Food,0.79,14.1,11.1,1,0,10
+prod10687,Amigo,Seafood,Seafood,Food,2.96,21.4,18.3,1,0,23
+prod10688,Curlew,Seafood,Seafood,Food,1.62,8.97,6.97,0,0,19
+prod10808,CDR,Baking Goods,Baking Goods,Food,0.95,8.22,6.22,1,1,19
+prod10809,BBB Best,Baking Goods,Baking Goods,Food,0.73,8.09,6.09,1,0,30
+prod10810,Super,Baking Goods,Baking Goods,Food,1.6,10.6,8.6,0,0,5
+prod10814,Plato,Baking Goods,Baking Goods,Food,3.71,11.8,10.8,0,0,28
+prod10817,Landslide,Baking Goods,Baking Goods,Food,1.25,9.48,6.47,0,0,27
+prod10916,Colossal,Starchy Foods,Starchy Foods,Food,2.56,8.6,6.6,0,1,10
+prod10917,Shady Lake,Starchy Foods,Starchy Foods,Food,3.39,19.7,18.7,1,1,9
+prod10919,Monarch,Starchy Foods,Starchy Foods,Food,2.9,8.2,5.19,1,0,18
+prod10920,Jardon,Starchy Foods,Starchy Foods,Food,0.54,13.7,10.6,1,0,28
+prod10921,Medalist,Starchy Foods,Starchy Foods,Food,3.8,13.9,11.8,1,0,1
+prod10922,Medalist,Starchy Foods,Starchy Foods,Food,3.38,17.5,14.5,1,0,5
+prod10923,Shady Lake,Starchy Foods,Starchy Foods,Food,2.67,19.0,17.0,1,0,29
+prod10924,Discover,Starchy Foods,Starchy Foods,Food,1.61,16.0,14.0,1,0,7
+prod10926,Medalist,Starchy Foods,Starchy Foods,Food,1.34,21.0,20.0,1,0,31
+prod10929,Discover,Starchy Foods,Starchy Foods,Food,0.88,8.06,6.06,0,1,5
+prod10931,Jardon,Starchy Foods,Starchy Foods,Food,0.96,17.7,15.7,1,1,9
+prod10935,Monarch,Starchy Foods,Starchy Foods,Food,2.6,13.0,10.0,0,0,22
+prod10939,Jardon,Starchy Foods,Starchy Foods,Food,1.2,11.5,9.5,1,1,22
+prod10940,Colossal,Starchy Foods,Starchy Foods,Food,3.37,21.9,19.8,1,0,12
+prod10946,Colossal,Starchy Foods,Starchy Foods,Food,1.87,14.7,13.6,1,0,23
+prod10947,Discover,Starchy Foods,Starchy Foods,Food,2.61,21.7,20.7,1,1,6
+prod10948,Monarch,Starchy Foods,Starchy Foods,Food,1.38,13.3,11.3,1,1,35
+prod10961,Shady Lake,Starchy Foods,Starchy Foods,Food,2.51,8.94,5.93,0,0,11
+prod11337,Horatio,Snack Foods,Snack Foods,Food,2.76,11.0,8.0,1,1,1
+prod11338,Nationeel,Snack Foods,Snack Foods,Food,1.42,7.31,5.3,1,1,8
+prod11339,Nationeel,Snack Foods,Snack Foods,Food,2.26,13.9,12.8,0,0,23
+prod11340,Best Choice,Snack Foods,Snack Foods,Food,0.68,16.0,14.0,1,0,21
+prod11341,Fast,Snack Foods,Snack Foods,Food,2.84,7.92,6.92,1,1,4
+prod11342,Horatio,Snack Foods,Snack Foods,Food,3.9,10.6,8.6,1,0,17
+prod11343,Nationeel,Snack Foods,Snack Foods,Food,2.94,8.24,6.23,1,0,22
+prod11345,Fort West,Snack Foods,Snack Foods,Food,2.58,17.1,14.1,0,1,26
+prod11346,Best Choice,Snack Foods,Snack Foods,Food,3.95,15.0,12.0,0,1,29
+prod11348,Best Choice,Snack Foods,Snack Foods,Food,1.73,8.24,6.23,0,0,32
+prod11349,Fast,Snack Foods,Snack Foods,Food,3.87,21.7,18.7,1,0,15
+prod11351,Fort West,Snack Foods,Snack Foods,Food,2.2,8.28,6.27,1,0,17
+prod11352,Fast,Snack Foods,Snack Foods,Food,0.93,20.9,18.8,1,1,13
+prod11353,Best Choice,Snack Foods,Snack Foods,Food,3.19,20.3,19.2,1,0,36
+prod11354,Fast,Snack Foods,Snack Foods,Food,2.42,20.1,17.1,0,0,12
+prod11356,Fast,Snack Foods,Snack Foods,Food,1.91,7.41,5.4,0,0,24
+prod11358,Nationeel,Snack Foods,Snack Foods,Food,1.65,8.31,6.31,0,0,31
+prod11359,Best Choice,Snack Foods,Snack Foods,Food,3.66,15.2,13.1,0,0,36
+prod11360,Nationeel,Snack Foods,Snack Foods,Food,1.63,12.5,10.5,1,1,34
+prod11361,Fort West,Snack Foods,Snack Foods,Food,1.8,11.7,8.69,1,0,3
+prod11364,Fast,Snack Foods,Snack Foods,Food,0.96,6.59,4.59,1,1,8
+prod11365,Nationeel,Snack Foods,Snack Foods,Food,0.66,14.4,11.3,0,0,2
+prod11366,Best Choice,Snack Foods,Snack Foods,Food,2.59,9.51,7.51,0,1,23
+prod11368,Best Choice,Snack Foods,Snack Foods,Food,0.76,10.4,7.39,1,1,22
+prod11369,Nationeel,Snack Foods,Snack Foods,Food,1.71,16.3,13.2,0,0,31
+prod11370,Horatio,Snack Foods,Snack Foods,Food,1.71,17.1,14.1,1,1,6
+prod11372,Fort West,Snack Foods,Snack Foods,Food,2.41,21.8,19.7,1,0,9
+prod11374,Fort West,Snack Foods,Snack Foods,Food,2.36,6.68,4.67,0,1,7
+prod11382,Horatio,Snack Foods,Snack Foods,Food,2.82,18.3,15.2,1,0,25
+prod11385,Horatio,Snack Foods,Snack Foods,Food,1.88,16.1,15.1,0,0,12
+prod11387,Best Choice,Snack Foods,Snack Foods,Food,1.98,15.7,14.6,0,1,12
+prod11388,Fast,Snack Foods,Snack Foods,Food,2.65,20.7,18.7,1,0,3
+prod11395,Horatio,Snack Foods,Snack Foods,Food,1.59,6.18,4.17,1,1,30
+prod11397,Nationeel,Snack Foods,Snack Foods,Food,3.31,17.1,14.1,1,0,22
+prod11408,Fort West,Snack Foods,Snack Foods,Food,1.55,18.0,17.0,0,0,15
+prod11412,Fort West,Snack Foods,Snack Foods,Food,2.26,8.77,7.77,0,1,22
+prod11418,Horatio,Snack Foods,Snack Foods,Food,3.59,11.8,9.8,0,0,34
+prod11420,Fast,Snack Foods,Snack Foods,Food,3.38,12.6,10.6,0,1,26
+prod11467,Fort West,Snack Foods,Snack Foods,Food,3.56,16.2,14.2,0,0,19
+prod11472,Horatio,Snack Foods,Snack Foods,Food,3.78,16.7,14.7,1,1,28
+prod12366,Nationeel,Snack Foods,Snack Foods,Food,1.31,16.3,14.2,0,0,16
+prod12367,Nationeel,Snack Foods,Snack Foods,Food,2.45,8.95,6.94,0,0,25
+prod12368,Best Choice,Snack Foods,Snack Foods,Food,2.21,16.5,14.5,1,1,5
+prod12370,Horatio,Snack Foods,Snack Foods,Food,1.54,8.44,5.43,0,1,16
+prod12371,Best Choice,Snack Foods,Snack Foods,Food,2.68,21.6,19.6,1,1,23
+prod12372,Fast,Snack Foods,Snack Foods,Food,2.9,8.39,5.39,1,1,34
+prod12374,Fast,Snack Foods,Snack Foods,Food,1.68,19.9,18.8,0,1,31
+prod12377,Fort West,Snack Foods,Snack Foods,Food,2.52,10.0,8.0,1,0,32
+prod12381,Fast,Snack Foods,Snack Foods,Food,2.4,10.7,8.69,0,0,30
+prod12385,Best Choice,Snack Foods,Snack Foods,Food,2.71,20.7,17.7,0,0,2
+prod12386,Horatio,Snack Foods,Snack Foods,Food,1.3,11.8,8.8,0,1,27
+prod12396,Fort West,Snack Foods,Snack Foods,Food,1.78,19.0,18.0,1,0,31
+prod12399,Fort West,Snack Foods,Snack Foods,Food,2.34,12.2,9.19,0,1,34
+prod12407,Horatio,Snack Foods,Snack Foods,Food,1.73,7.57,6.57,1,0,23
+prod12431,Nationeel,Snack Foods,Snack Foods,Food,1.59,11.4,10.3,0,0,28
+prod12732,Ebony,Specialty,Produce,Food,0.95,8.29,7.28,1,0,20
+prod12733,Ebony,Specialty,Produce,Food,1.68,17.2,14.2,1,1,8
+prod12734,Tell Tale,Specialty,Produce,Food,1.63,15.6,13.6,1,1,6
+prod12735,High Top,Specialty,Produce,Food,2.71,13.9,11.8,1,0,9
+prod12736,Tri-State,Specialty,Produce,Food,1.76,8.69,7.68,0,0,12
+prod12738,Ebony,Specialty,Produce,Food,1.18,20.9,17.8,1,1,8
+prod12740,Hermanos,Specialty,Produce,Food,2.13,11.1,8.1,1,0,29
+prod12742,High Top,Specialty,Produce,Food,2.82,21.6,19.6,1,1,18
+prod12743,Hermanos,Specialty,Produce,Food,1.76,11.2,9.19,1,1,23
+prod12744,Tell Tale,Specialty,Produce,Food,3.68,11.5,8.5,1,0,3
+prod12746,High Top,Specialty,Produce,Food,2.11,10.9,7.89,0,1,15
+prod12747,Hermanos,Specialty,Produce,Food,1.98,12.4,9.39,1,0,12
+prod12751,Ebony,Specialty,Produce,Food,2.39,18.8,16.7,0,0,25
+prod12753,Ebony,Specialty,Produce,Food,1.29,19.4,17.3,0,1,32
+prod12754,Tell Tale,Specialty,Produce,Food,1.85,21.8,19.7,1,0,6
+prod12756,High Top,Specialty,Produce,Food,1.77,8.72,6.72,0,1,24
+prod12757,Tell Tale,Specialty,Produce,Food,2.85,11.3,9.3,0,1,30
+prod12764,Tri-State,Specialty,Produce,Food,1.54,17.5,15.5,1,1,26
+prod12769,High Top,Specialty,Produce,Food,2.72,14.5,12.5,1,0,1
+prod12784,Tell Tale,Specialty,Produce,Food,3.4,7.87,6.86,0,0,26
+prod12786,Tri-State,Specialty,Produce,Food,2.63,13.6,12.6,1,0,23
+prod12805,Hermanos,Specialty,Produce,Food,2.53,16.8,15.7,1,0,30
+prod12818,Tri-State,Specialty,Produce,Food,0.88,19.7,16.7,0,1,17
+prod12850,Tri-State,Specialty,Produce,Food,0.85,21.2,18.2,1,0,4
+prod12879,Hermanos,Specialty,Produce,Food,3.39,17.4,15.3,1,1,11
+prod13346,Red Wing,Kitchen Products,Household,Non-Consumable,1.29,8.03,5.02,1,0,30
+prod13347,Cormorant,Kitchen Products,Household,Non-Consumable,2.72,21.3,19.2,1,0,18
+prod13348,Denny,Kitchen Products,Household,Non-Consumable,0.55,21.5,19.5,0,0,20
+prod13350,Red Wing,Kitchen Products,Household,Non-Consumable,3.81,8.33,7.32,1,0,3
+prod13351,Sunset,Kitchen Products,Household,Non-Consumable,0.89,17.2,14.2,0,0,1
+prod13352,High Quality,Kitchen Products,Household,Non-Consumable,2.56,13.5,11.5,1,0,9
+prod13353,High Quality,Kitchen Products,Household,Non-Consumable,3.77,8.39,6.39,1,0,21
+prod13359,Sunset,Kitchen Products,Household,Non-Consumable,0.63,14.5,13.5,1,0,3
+prod13364,Denny,Kitchen Products,Household,Non-Consumable,1.58,21.1,18.1,0,0,5
+prod13382,Cormorant,Kitchen Products,Household,Non-Consumable,2.84,19.5,18.5,0,0,21
+prod13588,Moms,Meat,Deli,Food,0.54,14.7,12.6,1,1,25
+prod13589,Cutting Edge,Meat,Deli,Food,2.33,6.86,4.86,1,1,28
+prod13590,Red Spade,Meat,Deli,Food,1.69,18.1,17.1,0,1,4
+prod13591,Lake,Meat,Deli,Food,3.2,6.66,5.65,0,1,6
+prod13592,Lake,Meat,Deli,Food,2.49,16.9,15.8,1,0,8
+prod13593,Red Spade,Meat,Deli,Food,2.33,19.1,16.1,0,0,22
+prod13595,Lake,Meat,Deli,Food,1.43,12.8,9.8,0,1,25
+prod13597,American,Meat,Deli,Food,0.59,7.32,5.32,1,0,24
+prod13598,American,Meat,Deli,Food,3.17,14.8,13.8,0,1,13
+prod13601,American,Meat,Deli,Food,2.65,7.19,6.19,1,1,10
+prod13602,Cutting Edge,Meat,Deli,Food,2.95,11.2,9.19,0,1,29
+prod13603,Moms,Meat,Deli,Food,2.41,17.7,16.7,1,0,14
+prod13605,American,Meat,Deli,Food,2.76,6.81,3.8,0,1,7
+prod13608,Red Spade,Meat,Deli,Food,1.57,6.13,5.13,0,1,5
+prod13610,Red Spade,Meat,Deli,Food,2.74,20.2,17.2,0,1,6
+prod13612,Lake,Meat,Deli,Food,2.94,10.5,8.5,1,1,29
+prod13613,Cutting Edge,Meat,Deli,Food,0.72,19.6,17.6,1,1,24
+prod13631,Moms,Meat,Deli,Food,2.75,13.2,11.1,1,1,33
+prod13639,Moms,Meat,Deli,Food,1.56,11.3,9.3,0,0,5
+prod13643,Cutting Edge,Meat,Deli,Food,3.52,12.9,9.89,1,1,3
+prod14120,Cormorant,Electrical,Household,Non-Consumable,1.87,21.7,18.7,0,0,25
+prod14121,Cormorant,Electrical,Household,Non-Consumable,3.19,17.5,14.5,1,0,19
+prod14122,Red Wing,Electrical,Household,Non-Consumable,1.5,16.8,14.7,1,0,10
+prod14123,Denny,Electrical,Household,Non-Consumable,2.7,12.3,10.3,1,0,7
+prod14124,Sunset,Electrical,Household,Non-Consumable,2.4,14.5,12.5,1,0,29
+prod14125,High Quality,Electrical,Household,Non-Consumable,3.24,8.48,6.47,0,0,17
+prod14126,Red Wing,Electrical,Household,Non-Consumable,2.26,13.2,11.1,1,0,10
+prod14128,Denny,Electrical,Household,Non-Consumable,0.64,13.0,12.0,1,0,29
+prod14129,Cormorant,Electrical,Household,Non-Consumable,2.76,20.5,18.5,0,0,12
+prod14133,Cormorant,Electrical,Household,Non-Consumable,0.59,21.0,20.0,0,0,9
+prod14136,Denny,Electrical,Household,Non-Consumable,3.83,14.0,12.0,1,0,35
+prod14137,Sunset,Electrical,Household,Non-Consumable,2.95,17.9,14.8,1,0,10
+prod14138,High Quality,Electrical,Household,Non-Consumable,1.37,10.1,7.1,1,0,16
+prod14139,Sunset,Electrical,Household,Non-Consumable,2.65,15.1,12.1,0,0,5
+prod14142,Sunset,Electrical,Household,Non-Consumable,3.49,10.9,8.89,1,0,14
+prod14145,Red Wing,Electrical,Household,Non-Consumable,2.88,19.4,17.3,1,0,15
+prod14155,High Quality,Electrical,Household,Non-Consumable,2.24,6.88,4.88,0,0,15
+prod14158,High Quality,Electrical,Household,Non-Consumable,3.13,19.3,18.2,1,0,29
+prod14162,Denny,Electrical,Household,Non-Consumable,3.87,17.4,15.3,0,0,33
+prod14168,Red Wing,Electrical,Household,Non-Consumable,3.69,10.3,8.3,1,0,9
+prod14589,Walrus,Beer and Wine,Alcoholic Beverages,Drink,2.84,19.4,17.3,1,0,6
+prod14590,Pearl,Beer and Wine,Alcoholic Beverages,Drink,1.92,19.9,17.8,0,0,20
+prod14592,Walrus,Beer and Wine,Alcoholic Beverages,Drink,1.61,19.4,17.3,1,0,18
+prod14593,Good,Beer and Wine,Alcoholic Beverages,Drink,2.84,10.5,8.5,0,0,12
+prod14594,Walrus,Beer and Wine,Alcoholic Beverages,Drink,2.29,9.38,8.38,1,0,9
+prod14595,Good,Beer and Wine,Alcoholic Beverages,Drink,2.24,9.71,6.71,1,0,35
+prod14596,Pearl,Beer and Wine,Alcoholic Beverages,Drink,0.54,9.01,7.01,0,0,8
+prod14597,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,3.52,10.4,7.39,1,0,34
+prod14598,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,0.7,16.5,13.5,1,0,17
+prod14599,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,2.87,10.3,8.3,1,0,32
+prod14600,Pearl,Beer and Wine,Alcoholic Beverages,Drink,0.65,16.2,15.2,0,0,2
+prod14601,Walrus,Beer and Wine,Alcoholic Beverages,Drink,2.41,19.9,17.8,0,0,29
+prod14604,Good,Beer and Wine,Alcoholic Beverages,Drink,1.73,9.26,7.26,0,0,20
+prod14605,Pearl,Beer and Wine,Alcoholic Beverages,Drink,0.57,9.87,6.86,1,0,11
+prod14606,Pearl,Beer and Wine,Alcoholic Beverages,Drink,2.68,10.7,8.69,0,0,31
+prod14607,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,0.81,17.3,16.2,1,0,16
+prod14608,Walrus,Beer and Wine,Alcoholic Beverages,Drink,0.83,15.7,13.6,0,0,35
+prod14609,Pearl,Beer and Wine,Alcoholic Beverages,Drink,1.74,15.4,12.3,0,0,34
+prod14610,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,1.7,11.2,9.19,1,0,28
+prod14611,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,3.36,10.0,9.0,0,0,35
+prod14613,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,3.43,8.41,7.4,0,0,15
+prod14614,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,2.31,7.38,4.38,0,0,10
+prod14615,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,2.6,19.3,17.2,0,0,4
+prod14616,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,2.7,13.1,11.1,1,0,25
+prod14622,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,0.58,12.2,11.1,1,0,28
+prod14626,Good,Beer and Wine,Alcoholic Beverages,Drink,2.37,12.0,9.0,1,0,31
+prod14642,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,1.89,21.2,18.2,1,0,20
+prod14652,Good,Beer and Wine,Alcoholic Beverages,Drink,0.83,6.98,4.98,0,0,24
+prod14667,Walrus,Beer and Wine,Alcoholic Beverages,Drink,3.8,9.9,6.89,1,0,32
+prod14769,Good,Beer and Wine,Alcoholic Beverages,Drink,3.91,7.07,6.07,1,0,2
+prod15352,High Quality,Candles,Household,Non-Consumable,1.58,9.85,7.85,0,0,5
+prod15353,Red Wing,Candles,Household,Non-Consumable,1.74,10.6,9.6,1,0,5
+prod15355,Sunset,Candles,Household,Non-Consumable,0.56,12.2,9.19,1,0,36
+prod15357,Denny,Candles,Household,Non-Consumable,2.95,20.2,18.2,1,0,18
+prod15359,Cormorant,Candles,Household,Non-Consumable,1.81,8.09,5.09,0,0,30
+prod15479,Super,Jams and Jellies,Baking Goods,Food,2.15,9.67,8.67,0,0,5
+prod15480,Plato,Jams and Jellies,Baking Goods,Food,2.98,6.42,3.42,0,0,3
+prod15481,CDR,Jams and Jellies,Baking Goods,Food,2.7,21.4,20.3,1,0,10
+prod15482,Landslide,Jams and Jellies,Baking Goods,Food,0.68,10.2,8.19,1,0,25
+prod15483,Plato,Jams and Jellies,Baking Goods,Food,1.48,9.3,7.3,1,1,22
+prod15484,Landslide,Jams and Jellies,Baking Goods,Food,3.78,16.7,14.7,1,0,24
+prod15487,BBB Best,Jams and Jellies,Baking Goods,Food,1.61,17.0,14.0,1,0,32
+prod15488,BBB Best,Jams and Jellies,Baking Goods,Food,2.7,21.2,18.2,0,0,30
+prod15489,CDR,Jams and Jellies,Baking Goods,Food,0.61,11.3,10.3,0,1,33
+prod15491,Super,Jams and Jellies,Baking Goods,Food,0.9,17.4,14.3,0,1,26
+prod15501,BBB Best,Jams and Jellies,Baking Goods,Food,1.48,7.65,4.65,1,0,5
+prod15504,Super,Jams and Jellies,Baking Goods,Food,2.58,13.6,11.6,1,1,32
+prod15505,Landslide,Jams and Jellies,Baking Goods,Food,0.81,6.38,3.38,1,1,28
+prod15511,Plato,Jams and Jellies,Baking Goods,Food,1.38,14.9,11.8,1,0,5
+prod15826,High Top,Fruit,Produce,Food,3.68,11.8,9.8,1,0,11
+prod15827,Tri-State,Fruit,Produce,Food,2.56,10.5,8.5,0,1,12
+prod15828,High Top,Fruit,Produce,Food,2.47,13.4,10.3,1,1,23
+prod15829,Tri-State,Fruit,Produce,Food,1.77,17.1,16.1,0,0,16
+prod15830,Ebony,Fruit,Produce,Food,2.77,18.5,16.5,1,0,10
+prod15831,Tri-State,Fruit,Produce,Food,2.4,13.7,12.6,0,0,6
+prod15832,Tell Tale,Fruit,Produce,Food,3.63,8.48,6.47,1,0,17
+prod15834,Tell Tale,Fruit,Produce,Food,0.68,21.0,19.0,0,1,31
+prod15835,High Top,Fruit,Produce,Food,0.92,17.2,14.2,1,1,27
+prod15836,Tell Tale,Fruit,Produce,Food,0.61,9.33,7.32,1,0,27
+prod15839,Hermanos,Fruit,Produce,Food,3.94,6.79,4.78,0,1,23
+prod15840,Ebony,Fruit,Produce,Food,2.11,19.3,16.2,1,1,9
+prod15841,Ebony,Fruit,Produce,Food,3.24,15.0,13.0,0,0,32
+prod15842,Hermanos,Fruit,Produce,Food,1.62,17.1,15.1,1,1,9
+prod15845,Hermanos,Fruit,Produce,Food,3.11,17.6,16.6,1,1,18
+prod15846,High Top,Fruit,Produce,Food,1.6,13.6,10.6,0,0,31
+prod15847,Hermanos,Fruit,Produce,Food,1.26,7.09,6.09,0,0,31
+prod15848,Hermanos,Fruit,Produce,Food,1.43,19.1,17.1,1,0,29
+prod15850,Tri-State,Fruit,Produce,Food,2.69,13.1,11.1,0,0,15
+prod15851,Ebony,Fruit,Produce,Food,1.86,18.4,17.3,0,1,9
+prod15852,Tell Tale,Fruit,Produce,Food,1.9,20.9,18.8,1,0,8
+prod15853,Tell Tale,Fruit,Produce,Food,0.58,11.0,10.0,1,0,31
+prod15854,Tri-State,Fruit,Produce,Food,1.42,9.62,7.61,0,0,30
+prod15855,Ebony,Fruit,Produce,Food,1.58,8.79,6.78,0,1,2
+prod15856,Hermanos,Fruit,Produce,Food,2.56,15.0,14.0,1,1,34
+prod15858,Hermanos,Fruit,Produce,Food,3.34,21.3,19.2,0,1,16
+prod15860,High Top,Fruit,Produce,Food,2.91,21.5,19.5,0,1,29
+prod15863,Ebony,Fruit,Produce,Food,2.96,9.96,7.96,0,1,32
+prod15864,Ebony,Fruit,Produce,Food,0.7,7.36,5.36,0,0,2
+prod15865,High Top,Fruit,Produce,Food,1.49,11.8,8.8,0,0,24
+prod15866,Tri-State,Fruit,Produce,Food,2.57,18.0,16.0,1,0,32
+prod15867,Hermanos,Fruit,Produce,Food,1.64,17.2,16.2,0,0,29
+prod15868,High Top,Fruit,Produce,Food,2.25,14.7,12.6,0,0,29
+prod15870,High Top,Fruit,Produce,Food,1.54,17.0,14.0,0,1,27
+prod15871,High Top,Fruit,Produce,Food,1.66,9.78,7.77,0,0,14
+prod15872,Hermanos,Fruit,Produce,Food,2.77,17.4,16.3,1,0,31
+prod15873,Hermanos,Fruit,Produce,Food,0.74,8.69,7.68,0,0,11
+prod15874,Tell Tale,Fruit,Produce,Food,3.79,13.9,11.8,1,1,22
+prod15875,Hermanos,Fruit,Produce,Food,2.9,21.6,18.6,1,1,17
+prod15876,Tell Tale,Fruit,Produce,Food,2.53,20.4,18.3,1,0,14
+prod15880,Ebony,Fruit,Produce,Food,1.83,9.79,7.78,1,0,29
+prod15881,Ebony,Fruit,Produce,Food,0.92,11.7,9.69,0,0,8
+prod15884,Tell Tale,Fruit,Produce,Food,1.72,11.3,9.3,0,1,27
+prod15885,Tri-State,Fruit,Produce,Food,3.61,13.7,11.6,1,1,11
+prod15892,Ebony,Fruit,Produce,Food,3.49,13.4,12.3,0,0,17
+prod15895,High Top,Fruit,Produce,Food,2.47,12.1,10.1,1,1,27
+prod15901,High Top,Fruit,Produce,Food,0.56,7.22,5.21,1,0,11
+prod15905,Tell Tale,Fruit,Produce,Food,1.91,20.7,19.7,0,1,17
+prod15907,Hermanos,Fruit,Produce,Food,2.96,16.5,14.5,0,1,27
+prod15909,Tri-State,Fruit,Produce,Food,1.82,21.0,20.0,1,0,19
+prod15912,Tri-State,Fruit,Produce,Food,1.96,7.61,4.61,0,1,27
+prod15915,Tri-State,Fruit,Produce,Food,0.62,15.6,14.6,1,1,30
+prod15918,Tell Tale,Fruit,Produce,Food,3.82,17.1,15.1,1,0,10
+prod15920,Hermanos,Fruit,Produce,Food,0.73,16.2,13.2,0,0,35
+prod15923,Tell Tale,Fruit,Produce,Food,2.74,9.85,7.85,0,0,10
+prod15932,Tri-State,Fruit,Produce,Food,2.44,13.7,10.6,1,1,2
+prod15933,Tri-State,Fruit,Produce,Food,2.86,9.37,7.36,1,1,23
+prod15936,Tri-State,Fruit,Produce,Food,2.95,15.2,13.1,0,1,27
+prod15944,Ebony,Fruit,Produce,Food,1.35,21.5,19.5,1,0,34
+prod15945,Tell Tale,Fruit,Produce,Food,1.74,13.8,11.8,0,0,16
+prod15948,Ebony,Fruit,Produce,Food,2.45,8.11,7.1,0,0,9
+prod15954,Tri-State,Fruit,Produce,Food,3.19,9.1,7.1,1,0,32
+prod15955,Hermanos,Fruit,Produce,Food,0.87,17.5,14.5,1,1,21
+prod15956,Ebony,Fruit,Produce,Food,3.43,7.28,6.28,1,1,25
+prod15979,Tell Tale,Fruit,Produce,Food,2.8,7.28,6.28,1,0,21
+prod15988,High Top,Fruit,Produce,Food,2.65,6.74,4.73,0,0,12
+prod15991,Tell Tale,Fruit,Produce,Food,1.84,13.6,11.6,1,1,28
+prod16006,High Top,Fruit,Produce,Food,1.87,17.3,15.2,1,0,16
+prod16021,Ebony,Fruit,Produce,Food,1.91,7.65,5.65,1,0,28
+prod16029,High Top,Fruit,Produce,Food,1.67,19.2,18.2,1,0,33
+prod17543,Golden,Meat,Frozen Foods,Food,2.35,12.0,10.0,1,1,34
+prod17544,Golden,Meat,Frozen Foods,Food,2.81,14.6,11.6,0,0,3
+prod17545,Imagine,Meat,Frozen Foods,Food,1.95,16.6,13.6,1,1,2
+prod17546,Golden,Meat,Frozen Foods,Food,3.48,15.4,13.3,1,1,17
+prod17548,Carrington,Meat,Frozen Foods,Food,2.42,9.4,8.39,0,1,11
+prod17549,PigTail,Meat,Frozen Foods,Food,1.51,12.5,10.5,1,1,27
+prod17551,Big Time,Meat,Frozen Foods,Food,2.22,8.3,6.3,1,0,30
+prod17552,PigTail,Meat,Frozen Foods,Food,3.93,8.35,5.35,0,0,27
+prod17553,Imagine,Meat,Frozen Foods,Food,3.46,11.0,8.0,0,1,24
+prod17555,Carrington,Meat,Frozen Foods,Food,0.93,9.92,8.92,1,1,21
+prod17557,PigTail,Meat,Frozen Foods,Food,2.21,19.5,17.5,1,1,35
+prod17558,Imagine,Meat,Frozen Foods,Food,0.91,9.91,7.9,1,0,9
+prod17570,Big Time,Meat,Frozen Foods,Food,2.95,6.19,4.19,1,0,23
+prod17572,Carrington,Meat,Frozen Foods,Food,1.24,21.5,19.5,1,1,12
+prod17574,Big Time,Meat,Frozen Foods,Food,3.67,7.87,5.86,0,1,33
+prod17893,Super,Baking Goods,Baking Goods,Food,1.42,8.25,7.25,1,0,35
+prod17894,Plato,Baking Goods,Baking Goods,Food,1.24,10.2,8.19,0,0,23
+prod17897,Landslide,Baking Goods,Baking Goods,Food,2.8,19.3,16.2,1,1,19
+prod17899,BBB Best,Baking Goods,Baking Goods,Food,2.46,6.76,3.76,1,1,3
+prod17900,BBB Best,Baking Goods,Baking Goods,Food,1.78,14.3,12.3,1,0,24
+prod17901,Plato,Baking Goods,Baking Goods,Food,1.72,11.4,9.39,0,0,3
+prod17904,Landslide,Baking Goods,Baking Goods,Food,1.52,10.3,9.3,1,0,25
+prod17905,Super,Baking Goods,Baking Goods,Food,1.56,11.7,10.6,1,1,21
+prod17908,CDR,Baking Goods,Baking Goods,Food,1.33,6.43,4.42,0,1,29
+prod17922,CDR,Baking Goods,Baking Goods,Food,2.92,10.3,8.3,1,0,23
+prod18142,Denny,Electrical,Household,Non-Consumable,1.92,20.0,18.0,1,0,14
+prod18143,Cormorant,Electrical,Household,Non-Consumable,2.55,6.32,5.32,1,0,5
+prod18144,Red Wing,Electrical,Household,Non-Consumable,2.48,11.1,8.1,0,0,5
+prod18145,High Quality,Electrical,Household,Non-Consumable,3.51,21.6,20.6,0,0,28
+prod18146,Denny,Electrical,Household,Non-Consumable,3.93,15.7,13.6,1,0,2
+prod18147,Cormorant,Electrical,Household,Non-Consumable,2.57,12.0,9.0,1,0,31
+prod18150,Red Wing,Electrical,Household,Non-Consumable,2.67,13.7,12.6,1,0,30
+prod18151,High Quality,Electrical,Household,Non-Consumable,0.5,9.61,8.6,1,0,14
+prod18152,Denny,Electrical,Household,Non-Consumable,2.27,21.2,20.2,0,0,25
+prod18155,High Quality,Electrical,Household,Non-Consumable,2.21,21.3,19.2,0,0,25
+prod18156,High Quality,Electrical,Household,Non-Consumable,1.54,20.8,18.7,0,0,8
+prod18158,Sunset,Electrical,Household,Non-Consumable,1.91,18.7,16.7,1,0,30
+prod18160,Sunset,Electrical,Household,Non-Consumable,1.64,16.7,13.7,1,0,31
+prod18161,Sunset,Electrical,Household,Non-Consumable,2.53,18.7,16.7,1,0,15
+prod18164,Red Wing,Electrical,Household,Non-Consumable,1.33,20.6,18.6,1,0,29
+prod18165,Sunset,Electrical,Household,Non-Consumable,2.17,21.6,20.6,0,0,34
+prod18171,Red Wing,Electrical,Household,Non-Consumable,1.54,15.8,14.8,0,0,23
+prod18176,Denny,Electrical,Household,Non-Consumable,3.7,13.3,11.3,1,0,13
+prod18182,Cormorant,Electrical,Household,Non-Consumable,1.45,16.9,15.8,1,0,2
+prod18185,Cormorant,Electrical,Household,Non-Consumable,1.89,18.0,16.0,0,0,22
+prod18662,Red Spade,Meat,Deli,Food,3.76,10.3,9.3,0,1,21
+prod18663,Red Spade,Meat,Deli,Food,1.61,13.2,12.1,1,0,33
+prod18665,Moms,Meat,Deli,Food,2.29,18.4,17.3,1,0,27
+prod18666,Cutting Edge,Meat,Deli,Food,1.82,12.5,9.5,1,0,34
+prod18667,Moms,Meat,Deli,Food,2.1,18.0,17.0,0,0,7
+prod18669,Lake,Meat,Deli,Food,3.92,19.4,16.3,1,1,17
+prod18670,Moms,Meat,Deli,Food,2.27,12.3,11.3,0,1,3
+prod18672,Lake,Meat,Deli,Food,1.78,14.4,13.3,0,1,6
+prod18675,American,Meat,Deli,Food,2.76,7.49,6.48,1,1,33
+prod18677,Cutting Edge,Meat,Deli,Food,0.97,7.67,4.67,0,0,35
+prod18684,Cutting Edge,Meat,Deli,Food,2.37,12.9,11.8,0,1,13
+prod18690,Red Spade,Meat,Deli,Food,3.44,11.9,8.89,1,1,31
+prod18691,American,Meat,Deli,Food,0.78,14.2,11.1,1,0,19
+prod18699,American,Meat,Deli,Food,2.87,15.8,13.8,1,0,5
+prod18710,Lake,Meat,Deli,Food,0.64,7.79,5.78,1,1,8
+prod19031,Excellent,Pure Juice Beverages,Beverages,Drink,1.6,9.58,7.57,0,0,6
+prod19032,Skinner,Pure Juice Beverages,Beverages,Drink,0.61,15.2,13.1,0,0,12
+prod19034,Washington,Pure Juice Beverages,Beverages,Drink,2.59,8.97,6.97,1,0,27
+prod19035,Excellent,Pure Juice Beverages,Beverages,Drink,2.41,13.2,12.1,1,0,13
+prod19037,Excellent,Pure Juice Beverages,Beverages,Drink,2.13,12.6,10.6,1,0,2
+prod19039,Token,Pure Juice Beverages,Beverages,Drink,1.8,8.04,7.03,1,0,2
+prod19040,Fabulous,Pure Juice Beverages,Beverages,Drink,2.96,16.9,13.8,0,0,34
+prod19041,Skinner,Pure Juice Beverages,Beverages,Drink,2.14,14.7,11.6,1,0,26
+prod19043,Token,Pure Juice Beverages,Beverages,Drink,0.78,19.7,17.7,1,0,7
+prod19045,Fabulous,Pure Juice Beverages,Beverages,Drink,2.85,6.0,4.0,1,0,2
+prod19047,Skinner,Pure Juice Beverages,Beverages,Drink,2.16,9.17,8.17,0,0,33
+prod19050,Washington,Pure Juice Beverages,Beverages,Drink,1.42,8.13,7.13,1,0,28
+prod19052,Washington,Pure Juice Beverages,Beverages,Drink,2.42,7.14,5.13,0,0,34
+prod19059,Fabulous,Pure Juice Beverages,Beverages,Drink,0.65,16.0,15.0,1,0,11
+prod19071,Token,Pure Juice Beverages,Beverages,Drink,0.83,20.6,18.6,0,0,1
+prod19072,Fabulous,Pure Juice Beverages,Beverages,Drink,0.7,10.8,8.8,0,0,19
+prod19073,Skinner,Pure Juice Beverages,Beverages,Drink,1.94,7.87,5.86,1,0,4
+prod19077,Excellent,Pure Juice Beverages,Beverages,Drink,3.26,16.4,14.3,0,0,14
+prod19089,Token,Pure Juice Beverages,Beverages,Drink,2.8,11.0,10.0,1,0,33
+prod19155,Washington,Pure Juice Beverages,Beverages,Drink,2.85,8.39,6.39,0,0,30
+prod19539,Big Time,Frozen Desserts,Frozen Foods,Food,2.27,20.6,19.6,1,1,29
+prod19540,Golden,Frozen Desserts,Frozen Foods,Food,0.95,9.81,8.81,1,0,13
+prod19541,Imagine,Frozen Desserts,Frozen Foods,Food,1.49,7.33,5.32,0,0,4
+prod19542,PigTail,Frozen Desserts,Frozen Foods,Food,3.23,10.0,8.0,1,0,16
+prod19543,Carrington,Frozen Desserts,Frozen Foods,Food,2.24,13.9,12.8,1,0,19
+prod19544,Imagine,Frozen Desserts,Frozen Foods,Food,3.21,8.47,6.47,0,1,5
+prod19546,Imagine,Frozen Desserts,Frozen Foods,Food,3.81,13.7,10.6,0,0,9
+prod19547,Big Time,Frozen Desserts,Frozen Foods,Food,2.91,17.4,16.3,1,1,6
+prod19553,Big Time,Frozen Desserts,Frozen Foods,Food,2.77,19.9,16.8,1,1,3
+prod19554,Carrington,Frozen Desserts,Frozen Foods,Food,2.1,11.5,8.5,0,0,13
+prod19555,PigTail,Frozen Desserts,Frozen Foods,Food,0.71,20.0,18.0,0,1,2
+prod19558,Carrington,Frozen Desserts,Frozen Foods,Food,2.65,17.7,14.7,1,1,18
+prod19560,Golden,Frozen Desserts,Frozen Foods,Food,3.89,12.3,10.3,0,1,11
+prod19568,Golden,Frozen Desserts,Frozen Foods,Food,3.95,19.0,16.0,0,0,11
+prod19573,PigTail,Frozen Desserts,Frozen Foods,Food,1.15,16.6,14.6,1,0,14
+prod19952,BBB Best,Jams and Jellies,Baking Goods,Food,3.38,10.2,9.19,1,1,28
+prod19953,Super,Jams and Jellies,Baking Goods,Food,1.89,10.1,8.1,1,0,24
+prod19954,CDR,Jams and Jellies,Baking Goods,Food,1.86,13.5,10.5,1,0,16
+prod19956,BBB Best,Jams and Jellies,Baking Goods,Food,1.59,12.2,10.1,0,0,3
+prod19957,Super,Jams and Jellies,Baking Goods,Food,3.39,6.72,5.71,0,1,4
+prod19958,BBB Best,Jams and Jellies,Baking Goods,Food,1.9,20.2,17.2,0,0,9
+prod19959,Plato,Jams and Jellies,Baking Goods,Food,1.21,19.0,17.0,1,0,24
+prod19960,Landslide,Jams and Jellies,Baking Goods,Food,1.35,18.4,16.3,0,1,34
+prod19962,Super,Jams and Jellies,Baking Goods,Food,3.96,16.5,14.5,0,1,29
+prod19964,Landslide,Jams and Jellies,Baking Goods,Food,1.16,13.9,10.8,1,1,30
+prod19965,Plato,Jams and Jellies,Baking Goods,Food,1.18,9.7,8.69,1,1,5
+prod19967,Plato,Jams and Jellies,Baking Goods,Food,1.98,19.9,17.8,0,0,24
+prod19974,Landslide,Jams and Jellies,Baking Goods,Food,1.33,21.9,19.8,1,1,13
+prod19998,CDR,Jams and Jellies,Baking Goods,Food,2.54,21.0,19.0,1,1,25
+prod20031,CDR,Jams and Jellies,Baking Goods,Food,2.95,21.7,18.7,1,1,18
+prod20332,Better,Canned Soup,Canned Foods,Food,3.74,8.73,6.72,1,0,17
+prod20333,Better,Canned Soup,Canned Foods,Food,1.23,7.98,5.98,1,0,25
+prod20334,Just Right,Canned Soup,Canned Foods,Food,3.76,7.12,6.11,0,1,14
+prod20335,Better,Canned Soup,Canned Foods,Food,0.63,16.0,13.0,1,1,6
+prod20337,Pleasant,Canned Soup,Canned Foods,Food,0.9,14.0,12.0,1,1,33
+prod20338,Just Right,Canned Soup,Canned Foods,Food,0.61,12.3,11.3,1,1,34
+prod20339,Blue Label,Canned Soup,Canned Foods,Food,1.78,17.1,16.1,0,0,34
+prod20340,Just Right,Canned Soup,Canned Foods,Food,1.87,9.31,6.31,1,1,10
+prod20341,Pleasant,Canned Soup,Canned Foods,Food,3.31,12.5,9.5,1,1,4
+prod20342,Better,Canned Soup,Canned Foods,Food,3.98,7.47,5.46,0,0,8
+prod20343,Blue Label,Canned Soup,Canned Foods,Food,0.88,16.5,13.5,1,1,21
+prod20344,Bravo,Canned Soup,Canned Foods,Food,0.8,15.0,13.0,0,1,19
+prod20345,Pleasant,Canned Soup,Canned Foods,Food,2.48,18.2,16.2,0,1,31
+prod20346,Just Right,Canned Soup,Canned Foods,Food,2.97,13.5,12.5,1,1,10
+prod20347,Just Right,Canned Soup,Canned Foods,Food,1.99,16.7,14.7,0,0,24
+prod20348,Pleasant,Canned Soup,Canned Foods,Food,2.82,20.2,19.2,1,1,9
+prod20351,Pleasant,Canned Soup,Canned Foods,Food,1.43,16.9,14.8,1,0,2
+prod20352,Bravo,Canned Soup,Canned Foods,Food,2.55,17.2,14.2,0,1,15
+prod20354,Pleasant,Canned Soup,Canned Foods,Food,1.17,13.5,12.5,1,0,9
+prod20355,Just Right,Canned Soup,Canned Foods,Food,2.4,20.5,18.5,1,1,6
+prod20356,Blue Label,Canned Soup,Canned Foods,Food,1.75,10.6,9.6,1,0,17
+prod20357,Blue Label,Canned Soup,Canned Foods,Food,3.19,15.2,12.1,1,1,35
+prod20358,Bravo,Canned Soup,Canned Foods,Food,1.84,9.0,6.0,0,0,19
+prod20359,Blue Label,Canned Soup,Canned Foods,Food,2.65,11.2,8.19,0,1,14
+prod20361,Bravo,Canned Soup,Canned Foods,Food,2.74,17.7,15.7,1,0,23
+prod20363,Pleasant,Canned Soup,Canned Foods,Food,1.3,20.5,18.5,0,1,33
+prod20365,Blue Label,Canned Soup,Canned Foods,Food,1.55,9.48,8.47,1,1,21
+prod20366,Better,Canned Soup,Canned Foods,Food,1.15,13.1,11.1,1,0,2
+prod20367,Better,Canned Soup,Canned Foods,Food,0.78,9.0,8.0,1,0,26
+prod20373,Pleasant,Canned Soup,Canned Foods,Food,1.31,20.2,19.2,1,0,36
+prod20374,Blue Label,Canned Soup,Canned Foods,Food,2.33,19.7,18.7,0,1,18
+prod20376,Bravo,Canned Soup,Canned Foods,Food,2.72,12.5,11.5,1,0,5
+prod20383,Bravo,Canned Soup,Canned Foods,Food,3.32,6.41,5.4,0,0,8
+prod20386,Blue Label,Canned Soup,Canned Foods,Food,1.59,21.0,19.0,1,1,9
+prod20388,Just Right,Canned Soup,Canned Foods,Food,1.5,17.2,15.2,0,0,2
+prod20393,Blue Label,Canned Soup,Canned Foods,Food,1.73,12.8,10.8,0,1,23
+prod20407,Better,Canned Soup,Canned Foods,Food,0.75,8.34,7.34,1,1,9
+prod20425,Just Right,Canned Soup,Canned Foods,Food,1.31,9.1,7.1,0,1,35
+prod20429,Bravo,Canned Soup,Canned Foods,Food,1.28,6.18,4.17,1,0,1
+prod20435,Just Right,Canned Soup,Canned Foods,Food,1.53,17.3,16.2,0,1,10
+prod20447,Better,Canned Soup,Canned Foods,Food,0.57,16.9,14.8,1,0,6
+prod20462,Bravo,Canned Soup,Canned Foods,Food,3.98,18.5,15.5,1,1,11
+prod20476,Better,Canned Soup,Canned Foods,Food,2.21,9.36,7.35,0,0,25
+prod20535,Bravo,Canned Soup,Canned Foods,Food,3.21,15.8,14.8,1,1,1
+prod20606,Pleasant,Canned Soup,Canned Foods,Food,2.69,20.5,18.5,1,0,4
+prod21458,Plato,Jams and Jellies,Baking Goods,Food,1.68,19.3,16.2,1,0,23
+prod21459,Landslide,Jams and Jellies,Baking Goods,Food,0.73,7.8,5.8,1,0,36
+prod21461,Landslide,Jams and Jellies,Baking Goods,Food,1.42,7.95,4.94,1,0,31
+prod21462,BBB Best,Jams and Jellies,Baking Goods,Food,1.97,6.97,3.96,0,1,10
+prod21465,Super,Jams and Jellies,Baking Goods,Food,0.99,7.71,5.71,0,1,22
+prod21467,CDR,Jams and Jellies,Baking Goods,Food,2.16,11.5,9.5,0,1,22
+prod21469,Landslide,Jams and Jellies,Baking Goods,Food,1.4,7.28,6.28,1,1,21
+prod21470,Super,Jams and Jellies,Baking Goods,Food,1.48,18.2,15.2,0,1,9
+prod21475,Plato,Jams and Jellies,Baking Goods,Food,2.32,18.3,17.2,0,1,30
+prod21479,BBB Best,Jams and Jellies,Baking Goods,Food,1.1,12.8,11.8,0,0,20
+prod21482,CDR,Jams and Jellies,Baking Goods,Food,2.65,6.94,3.94,1,1,7
+prod21484,BBB Best,Jams and Jellies,Baking Goods,Food,2.78,6.49,5.48,0,0,23
+prod21486,Plato,Jams and Jellies,Baking Goods,Food,2.45,12.0,9.0,1,1,34
+prod21492,CDR,Jams and Jellies,Baking Goods,Food,2.5,7.63,5.63,1,1,13
+prod21507,Super,Jams and Jellies,Baking Goods,Food,3.62,18.7,17.7,1,1,6
+prod21822,High Quality,Paper Products,Household,Non-Consumable,2.47,7.36,5.36,1,0,7
+prod21823,Denny,Paper Products,Household,Non-Consumable,2.49,17.6,16.6,1,0,27
+prod21824,High Quality,Paper Products,Household,Non-Consumable,3.32,19.7,16.7,0,0,32
+prod21825,Sunset,Paper Products,Household,Non-Consumable,1.78,11.6,10.6,1,0,31
+prod21826,Red Wing,Paper Products,Household,Non-Consumable,1.61,13.7,11.6,1,0,21
+prod21827,Sunset,Paper Products,Household,Non-Consumable,2.59,9.43,7.43,0,0,20
+prod21829,Sunset,Paper Products,Household,Non-Consumable,1.59,10.2,8.19,0,0,31
+prod21830,Sunset,Paper Products,Household,Non-Consumable,0.86,8.0,7.0,0,0,29
+prod21832,Red Wing,Paper Products,Household,Non-Consumable,1.25,8.28,5.27,1,0,18
+prod21833,Cormorant,Paper Products,Household,Non-Consumable,1.94,6.95,4.94,1,0,28
+prod21834,Red Wing,Paper Products,Household,Non-Consumable,3.56,15.6,14.6,1,0,20
+prod21835,Denny,Paper Products,Household,Non-Consumable,2.91,12.3,10.3,1,0,12
+prod21838,Cormorant,Paper Products,Household,Non-Consumable,0.71,10.6,7.6,1,0,32
+prod21839,Red Wing,Paper Products,Household,Non-Consumable,2.72,16.1,13.1,0,0,23
+prod21840,Cormorant,Paper Products,Household,Non-Consumable,1.12,21.1,20.1,1,0,26
+prod21841,Cormorant,Paper Products,Household,Non-Consumable,0.95,20.7,19.7,1,0,7
+prod21844,Sunset,Paper Products,Household,Non-Consumable,3.15,9.38,8.38,1,0,35
+prod21845,Red Wing,Paper Products,Household,Non-Consumable,2.12,15.6,14.6,1,0,2
+prod21846,Red Wing,Paper Products,Household,Non-Consumable,0.64,16.4,15.3,0,0,31
+prod21847,High Quality,Paper Products,Household,Non-Consumable,3.56,11.5,9.5,1,0,13
+prod21854,High Quality,Paper Products,Household,Non-Consumable,2.15,7.88,4.88,1,0,4
+prod21864,Denny,Paper Products,Household,Non-Consumable,3.95,8.94,6.93,1,0,17
+prod21873,Denny,Paper Products,Household,Non-Consumable,2.72,18.1,17.1,0,0,19
+prod21876,Cormorant,Paper Products,Household,Non-Consumable,1.83,8.73,6.72,0,0,18
+prod21884,High Quality,Paper Products,Household,Non-Consumable,1.66,7.26,5.26,0,0,24
+prod21891,Sunset,Paper Products,Household,Non-Consumable,1.43,10.2,7.19,0,0,5
+prod21899,Cormorant,Paper Products,Household,Non-Consumable,2.45,6.11,4.11,1,0,29
+prod21901,Denny,Paper Products,Household,Non-Consumable,3.45,18.6,16.6,1,0,15
+prod21921,Denny,Paper Products,Household,Non-Consumable,2.89,17.2,15.2,1,0,31
+prod21947,High Quality,Paper Products,Household,Non-Consumable,2.53,10.5,7.5,0,0,19
+prod22580,Nationeel,Snack Foods,Snack Foods,Food,2.39,15.5,13.5,1,1,9
+prod22582,Best Choice,Snack Foods,Snack Foods,Food,2.7,14.4,12.3,0,1,17
+prod22583,Fast,Snack Foods,Snack Foods,Food,1.45,19.1,16.1,1,1,35
+prod22584,Horatio,Snack Foods,Snack Foods,Food,2.77,18.7,16.7,0,0,23
+prod22594,Fort West,Snack Foods,Snack Foods,Food,2.13,11.0,10.0,1,1,20
+prod22705,Toucan,Fruit,Canned Products,Food,1.4,17.9,15.8,1,1,32
+prod22706,Applause,Fruit,Canned Products,Food,2.34,19.0,17.0,0,0,20
+prod22707,Swell,Fruit,Canned Products,Food,1.63,15.3,12.3,1,0,12
+prod22708,Green Ribbon,Fruit,Canned Products,Food,1.31,14.0,11.0,1,1,32
+prod22710,Big City,Fruit,Canned Products,Food,0.76,11.6,8.6,1,0,26
+prod22712,Toucan,Fruit,Canned Products,Food,1.38,16.8,15.7,0,0,3
+prod22714,Applause,Fruit,Canned Products,Food,2.8,6.96,3.96,1,1,2
+prod22718,Big City,Fruit,Canned Products,Food,1.17,17.8,16.7,1,0,33
+prod22725,Swell,Fruit,Canned Products,Food,2.34,8.62,7.61,0,1,3
+prod22727,Green Ribbon,Fruit,Canned Products,Food,3.11,17.5,15.5,1,0,5
+prod22953,Sphinx,Bread,Baked Goods,Food,1.83,16.0,14.0,1,0,5
+prod22954,Colony,Bread,Baked Goods,Food,1.17,8.72,6.72,0,1,13
+prod22955,Great,Bread,Baked Goods,Food,1.81,6.29,3.28,0,0,34
+prod22956,Fantastic,Bread,Baked Goods,Food,3.42,6.04,4.03,1,1,27
+prod22961,Modell,Bread,Baked Goods,Food,3.27,13.9,12.8,1,0,1
+prod23079,Better,Canned Tuna,Canned Foods,Food,1.5,14.2,13.1,1,1,26
+prod23080,Just Right,Canned Tuna,Canned Foods,Food,1.76,7.43,5.42,0,0,4
+prod23081,Bravo,Canned Tuna,Canned Foods,Food,1.67,10.7,9.69,1,0,23
+prod23082,Better,Canned Tuna,Canned Foods,Food,2.77,21.7,19.7,0,0,19
+prod23083,Blue Label,Canned Tuna,Canned Foods,Food,1.41,9.71,7.71,1,0,31
+prod23085,Blue Label,Canned Tuna,Canned Foods,Food,1.55,17.2,15.2,1,0,28
+prod23088,Pleasant,Canned Tuna,Canned Foods,Food,1.37,8.91,5.9,1,0,7
+prod23092,Just Right,Canned Tuna,Canned Foods,Food,1.28,9.48,8.47,0,1,16
+prod23093,Pleasant,Canned Tuna,Canned Foods,Food,2.96,6.41,3.4,1,0,16
+prod23099,Bravo,Canned Tuna,Canned Foods,Food,2.78,9.71,7.71,1,1,28
+prod23335,Cutting Edge,Meat,Deli,Food,1.53,18.2,17.2,0,1,9
+prod23336,Lake,Meat,Deli,Food,2.26,9.54,8.53,1,1,11
+prod23337,Red Spade,Meat,Deli,Food,3.56,16.0,14.0,1,1,2
+prod23339,Moms,Meat,Deli,Food,1.11,17.3,16.2,1,1,6
+prod23340,American,Meat,Deli,Food,2.52,19.9,18.8,0,1,13
+prod23341,Moms,Meat,Deli,Food,3.85,16.2,14.2,1,0,34
+prod23342,Red Spade,Meat,Deli,Food,2.95,20.3,18.2,1,1,21
+prod23343,Cutting Edge,Meat,Deli,Food,1.76,21.9,19.8,1,0,7
+prod23346,Cutting Edge,Meat,Deli,Food,1.44,6.68,5.67,0,1,34
+prod23347,Lake,Meat,Deli,Food,0.71,17.0,15.0,1,1,20
+prod23353,American,Meat,Deli,Food,2.74,21.9,18.8,1,0,9
+prod23357,Lake,Meat,Deli,Food,1.53,12.3,11.3,0,1,26
+prod23358,Red Spade,Meat,Deli,Food,1.86,6.15,4.15,0,1,27
+prod23378,American,Meat,Deli,Food,2.14,8.4,5.39,0,0,29
+prod23396,Moms,Meat,Deli,Food,1.49,11.3,10.3,1,0,32
+prod23742,National,Eggs,Eggs,Food,2.89,21.3,19.2,0,1,23
+prod23743,Blue Medal,Eggs,Eggs,Food,2.13,17.0,15.0,0,0,35
+prod23744,National,Eggs,Eggs,Food,3.74,21.3,19.2,0,1,24
+prod23746,Blue Medal,Eggs,Eggs,Food,1.32,12.4,10.3,0,1,9
+prod23747,Urban,Eggs,Eggs,Food,2.35,19.3,17.2,1,1,35
+prod23748,Jumbo,Eggs,Eggs,Food,0.75,8.94,6.93,0,0,23
+prod23751,Urban,Eggs,Eggs,Food,1.31,9.21,7.21,0,0,9
+prod23752,Urban,Eggs,Eggs,Food,3.74,10.3,8.3,1,0,34
+prod23753,National,Eggs,Eggs,Food,0.93,16.6,14.6,0,1,8
+prod23755,Giant,Eggs,Eggs,Food,1.71,9.05,7.05,0,1,20
+prod23758,Jumbo,Eggs,Eggs,Food,2.97,7.62,5.61,1,0,3
+prod23759,National,Eggs,Eggs,Food,1.17,17.0,15.0,0,1,34
+prod23766,Giant,Eggs,Eggs,Food,1.65,19.8,16.7,1,1,27
+prod23769,Giant,Eggs,Eggs,Food,2.26,12.2,10.1,0,1,35
+prod23776,Jumbo,Eggs,Eggs,Food,1.42,21.7,19.7,0,1,4
+prod23781,Jumbo,Eggs,Eggs,Food,3.84,21.9,18.8,0,1,29
+prod23791,Blue Medal,Eggs,Eggs,Food,3.63,17.1,14.1,0,0,31
+prod23792,Urban,Eggs,Eggs,Food,1.3,13.0,10.0,0,1,29
+prod23796,Blue Medal,Eggs,Eggs,Food,2.19,19.5,17.5,1,1,3
+prod23798,National,Eggs,Eggs,Food,2.19,18.0,17.0,1,1,11
+prod23804,Giant,Eggs,Eggs,Food,1.33,10.9,9.89,1,1,33
+prod23805,Urban,Eggs,Eggs,Food,1.79,14.1,12.1,0,0,27
+prod23821,Jumbo,Eggs,Eggs,Food,2.68,7.38,5.38,1,0,2
+prod23833,Giant,Eggs,Eggs,Food,3.84,18.8,16.7,0,0,33
+prod23883,Blue Medal,Eggs,Eggs,Food,2.8,14.7,12.6,0,1,13
+prod24373,Denny,Hardware,Household,Non-Consumable,2.38,14.7,11.6,0,0,4
+prod24374,High Quality,Hardware,Household,Non-Consumable,2.62,7.64,5.63,1,0,30
+prod24376,Cormorant,Hardware,Household,Non-Consumable,2.47,12.6,11.6,1,0,10
+prod24377,Red Wing,Hardware,Household,Non-Consumable,0.82,9.47,8.47,1,0,10
+prod24378,Cormorant,Hardware,Household,Non-Consumable,2.28,9.63,8.63,1,0,21
+prod24380,Denny,Hardware,Household,Non-Consumable,1.52,10.0,8.0,1,0,32
+prod24383,Sunset,Hardware,Household,Non-Consumable,1.72,17.3,15.2,0,0,14
+prod24385,High Quality,Hardware,Household,Non-Consumable,3.24,9.42,7.42,1,0,20
+prod24387,Red Wing,Hardware,Household,Non-Consumable,3.52,21.3,19.2,1,0,26
+prod24397,Sunset,Hardware,Household,Non-Consumable,1.83,19.6,17.6,1,0,15
+prod24610,Pleasant,Canned Sardines,Canned Foods,Food,1.87,13.2,11.1,1,1,29
+prod24612,Better,Canned Sardines,Canned Foods,Food,1.2,11.8,8.8,0,1,7
+prod24615,Blue Label,Canned Sardines,Canned Foods,Food,1.8,14.0,11.0,1,0,26
+prod24616,Just Right,Canned Sardines,Canned Foods,Food,0.79,6.89,4.88,1,1,24
+prod24619,Bravo,Canned Sardines,Canned Foods,Food,2.68,6.44,5.44,1,0,28
+prod24716,Just Right,Canned Clams,Canned Foods,Food,2.23,7.65,5.65,0,0,6
+prod24717,Better,Canned Clams,Canned Foods,Food,2.11,17.6,16.6,1,1,36
+prod24719,Pleasant,Canned Clams,Canned Foods,Food,0.79,9.65,7.64,1,0,14
+prod24720,Blue Label,Canned Clams,Canned Foods,Food,1.69,16.7,14.7,1,1,30
+prod24725,Bravo,Canned Clams,Canned Foods,Food,3.85,20.4,17.3,1,0,16
+prod24849,Nationeel,Snack Foods,Snack Foods,Food,2.51,9.31,6.31,0,1,7
+prod24850,Horatio,Snack Foods,Snack Foods,Food,3.82,18.5,16.5,1,0,29
+prod24851,Fort West,Snack Foods,Snack Foods,Food,1.44,21.2,19.2,0,1,32
+prod24852,Nationeel,Snack Foods,Snack Foods,Food,3.88,10.6,8.6,0,1,28
+prod24853,Fast,Snack Foods,Snack Foods,Food,1.51,6.84,3.84,0,1,35
+prod24854,Best Choice,Snack Foods,Snack Foods,Food,2.65,10.0,8.0,0,0,30
+prod24856,Horatio,Snack Foods,Snack Foods,Food,2.35,17.8,15.7,1,0,13
+prod24860,Fast,Snack Foods,Snack Foods,Food,0.51,12.3,11.3,1,1,26
+prod24863,Fort West,Snack Foods,Snack Foods,Food,1.46,18.3,16.2,1,1,24
+prod24865,Horatio,Snack Foods,Snack Foods,Food,2.98,15.1,13.1,0,0,15
+prod24866,Best Choice,Snack Foods,Snack Foods,Food,1.19,14.7,12.6,1,1,21
+prod24869,Best Choice,Snack Foods,Snack Foods,Food,2.23,13.6,10.6,0,0,33
+prod24873,Fast,Snack Foods,Snack Foods,Food,1.88,13.0,10.0,1,0,13
+prod24878,Nationeel,Snack Foods,Snack Foods,Food,0.69,8.63,6.63,0,1,15
+prod24888,Fort West,Snack Foods,Snack Foods,Food,2.66,9.31,7.31,0,1,7
+prod25213,Consolidated,Pain Relievers,Health and Hygiene,Non-Consumable,0.85,8.57,6.56,1,0,27
+prod25214,Faux Products,Pain Relievers,Health and Hygiene,Non-Consumable,3.84,12.4,9.39,0,0,21
+prod25215,Steady,Pain Relievers,Health and Hygiene,Non-Consumable,1.42,19.1,18.1,0,0,17
+prod25216,Steady,Pain Relievers,Health and Hygiene,Non-Consumable,1.74,10.8,8.8,1,0,28
+prod25219,Hilltop,Pain Relievers,Health and Hygiene,Non-Consumable,2.47,6.4,4.4,1,0,33
+prod25220,Bird Call,Pain Relievers,Health and Hygiene,Non-Consumable,2.87,19.9,17.8,0,0,5
+prod25222,Faux Products,Pain Relievers,Health and Hygiene,Non-Consumable,1.99,12.5,10.5,0,0,9
+prod25231,Bird Call,Pain Relievers,Health and Hygiene,Non-Consumable,1.66,15.4,13.3,0,0,2
+prod25232,Hilltop,Pain Relievers,Health and Hygiene,Non-Consumable,2.49,6.49,4.48,1,0,10
+prod25235,Consolidated,Pain Relievers,Health and Hygiene,Non-Consumable,3.91,13.0,11.0,1,0,1
+prod25473,Nationeel,Snack Foods,Snack Foods,Food,1.85,10.4,7.39,1,1,18
+prod25475,Best Choice,Snack Foods,Snack Foods,Food,3.44,16.2,14.2,0,0,13
+prod25476,Fast,Snack Foods,Snack Foods,Food,3.21,7.87,5.86,1,0,6
+prod25477,Nationeel,Snack Foods,Snack Foods,Food,2.73,9.7,8.69,0,0,29
+prod25480,Horatio,Snack Foods,Snack Foods,Food,0.82,16.4,15.3,1,0,14
+prod25481,Fort West,Snack Foods,Snack Foods,Food,3.88,16.1,14.1,1,1,10
+prod25485,Fort West,Snack Foods,Snack Foods,Food,1.26,12.2,11.1,1,1,17
+prod25486,Best Choice,Snack Foods,Snack Foods,Food,2.52,20.6,18.6,1,1,15
+prod25490,Fort West,Snack Foods,Snack Foods,Food,2.15,16.0,15.0,1,0,30
+prod25491,Nationeel,Snack Foods,Snack Foods,Food,3.2,18.9,16.8,1,0,33
+prod25495,Fast,Snack Foods,Snack Foods,Food,1.82,21.8,20.7,1,0,20
+prod25497,Fast,Snack Foods,Snack Foods,Food,3.76,9.41,6.4,1,0,24
+prod25498,Best Choice,Snack Foods,Snack Foods,Food,2.55,12.2,10.1,0,1,7
+prod25501,Best Choice,Snack Foods,Snack Foods,Food,3.89,19.8,16.7,0,0,7
+prod25504,Fast,Snack Foods,Snack Foods,Food,0.6,16.9,14.8,0,1,21
+prod25505,Nationeel,Snack Foods,Snack Foods,Food,3.84,19.7,17.7,1,0,4
+prod25507,Fast,Snack Foods,Snack Foods,Food,2.19,17.7,15.7,0,1,9
+prod25513,Fort West,Snack Foods,Snack Foods,Food,2.13,19.3,17.2,0,0,35
+prod25516,Horatio,Snack Foods,Snack Foods,Food,3.78,10.5,8.5,0,0,28
+prod25524,Nationeel,Snack Foods,Snack Foods,Food,1.37,17.0,16.0,1,0,34
+prod25528,Best Choice,Snack Foods,Snack Foods,Food,0.86,7.13,6.13,0,1,33
+prod25532,Fort West,Snack Foods,Snack Foods,Food,1.73,13.3,11.3,1,0,12
+prod25573,Horatio,Snack Foods,Snack Foods,Food,1.82,9.16,8.15,1,1,23
+prod25576,Horatio,Snack Foods,Snack Foods,Food,3.36,20.4,18.3,1,0,12
+prod25580,Horatio,Snack Foods,Snack Foods,Food,1.32,14.2,12.1,0,1,35
+prod26078,Great,Bread,Baked Goods,Food,3.36,8.55,5.55,1,1,2
+prod26080,Colony,Bread,Baked Goods,Food,2.48,12.7,11.6,1,0,30
+prod26081,Great,Bread,Baked Goods,Food,2.41,11.5,9.5,0,1,24
+prod26082,Great,Bread,Baked Goods,Food,2.82,6.44,5.44,0,1,18
+prod26083,Modell,Bread,Baked Goods,Food,2.44,7.28,4.28,1,0,27
+prod26084,Great,Bread,Baked Goods,Food,2.63,10.1,8.1,1,1,28
+prod26085,Fantastic,Bread,Baked Goods,Food,2.33,20.5,18.5,0,0,25
+prod26086,Fantastic,Bread,Baked Goods,Food,0.69,18.6,16.6,1,1,19
+prod26089,Fantastic,Bread,Baked Goods,Food,0.63,11.6,9.6,0,0,26
+prod26090,Colony,Bread,Baked Goods,Food,1.54,7.55,5.55,0,0,35
+prod26092,Fantastic,Bread,Baked Goods,Food,1.5,7.94,4.94,1,0,28
+prod26093,Colony,Bread,Baked Goods,Food,2.65,16.4,15.3,1,0,35
+prod26096,Sphinx,Bread,Baked Goods,Food,2.36,7.55,5.55,1,1,3
+prod26100,Modell,Bread,Baked Goods,Food,3.46,14.7,12.6,0,0,36
+prod26104,Modell,Bread,Baked Goods,Food,1.27,14.2,12.1,0,0,3
+prod26109,Sphinx,Bread,Baked Goods,Food,1.46,6.26,4.26,1,1,27
+prod26110,Sphinx,Bread,Baked Goods,Food,1.27,18.1,16.1,0,0,11
+prod26117,Modell,Bread,Baked Goods,Food,1.65,15.3,14.3,0,1,16
+prod26139,Sphinx,Bread,Baked Goods,Food,2.11,13.8,11.8,0,1,18
+prod26175,Colony,Bread,Baked Goods,Food,1.93,6.14,3.13,0,0,33
+prod26617,Cutting Edge,Side Dishes,Deli,Food,1.33,8.47,7.47,1,1,35
+prod26618,Moms,Side Dishes,Deli,Food,2.33,10.3,8.3,1,1,23
+prod26619,Lake,Side Dishes,Deli,Food,1.68,13.2,10.1,0,1,33
+prod26621,Cutting Edge,Side Dishes,Deli,Food,2.85,9.66,6.65,0,0,34
+prod26622,Moms,Side Dishes,Deli,Food,2.23,16.9,13.8,1,1,15
+prod26623,American,Side Dishes,Deli,Food,2.27,7.26,5.26,0,1,5
+prod26624,Red Spade,Side Dishes,Deli,Food,3.1,16.7,14.7,1,1,6
+prod26627,Lake,Side Dishes,Deli,Food,0.93,14.4,12.3,1,0,4
+prod26629,Red Spade,Side Dishes,Deli,Food,0.68,16.9,14.8,0,1,26
+prod26631,Cutting Edge,Side Dishes,Deli,Food,1.55,6.19,4.19,1,1,23
+prod26632,Lake,Side Dishes,Deli,Food,3.31,13.5,11.5,0,0,29
+prod26635,Red Spade,Side Dishes,Deli,Food,0.97,8.83,6.82,0,0,6
+prod26643,American,Side Dishes,Deli,Food,0.89,19.9,17.8,0,0,3
+prod26646,Moms,Side Dishes,Deli,Food,1.22,21.4,19.3,1,1,6
+prod26650,American,Side Dishes,Deli,Food,1.55,20.7,18.7,1,1,4
+prod27012,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,0.96,19.9,18.8,0,0,11
+prod27013,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,3.38,13.7,10.6,1,0,20
+prod27014,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,2.47,11.7,10.6,0,0,14
+prod27016,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,2.76,14.4,11.3,1,0,26
+prod27027,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.26,12.9,9.89,0,0,23
+prod27124,Good,Beer and Wine,Alcoholic Beverages,Drink,1.62,6.89,5.88,0,0,13
+prod27125,Pearl,Beer and Wine,Alcoholic Beverages,Drink,1.86,10.3,8.3,0,0,11
+prod27126,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,3.79,16.3,15.2,1,0,5
+prod27127,Pearl,Beer and Wine,Alcoholic Beverages,Drink,0.91,11.6,8.6,0,0,33
+prod27128,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,1.1,11.8,9.8,1,0,28
+prod27129,Walrus,Beer and Wine,Alcoholic Beverages,Drink,2.59,17.6,15.6,0,0,31
+prod27130,Walrus,Beer and Wine,Alcoholic Beverages,Drink,2.62,6.11,3.11,1,0,31
+prod27133,Portsmouth,Beer and Wine,Alcoholic Beverages,Drink,2.16,16.2,13.2,1,0,20
+prod27141,Good,Beer and Wine,Alcoholic Beverages,Drink,2.18,9.35,6.35,0,0,33
+prod27159,Top Measure,Beer and Wine,Alcoholic Beverages,Drink,1.14,12.8,10.8,0,0,24
+prod27382,Steady,Pain Relievers,Health and Hygiene,Non-Consumable,2.83,11.8,9.8,1,0,18
+prod27384,Hilltop,Pain Relievers,Health and Hygiene,Non-Consumable,3.6,8.77,7.77,1,0,5
+prod27385,Consolidated,Pain Relievers,Health and Hygiene,Non-Consumable,3.98,10.0,8.0,1,0,12
+prod27387,Bird Call,Pain Relievers,Health and Hygiene,Non-Consumable,2.38,19.0,17.0,1,0,16
+prod27388,Faux Products,Pain Relievers,Health and Hygiene,Non-Consumable,1.21,13.3,10.3,1,0,8
+prod27530,Golden,Breakfast Foods,Frozen Foods,Food,0.62,7.9,4.9,1,0,1
+prod27531,Big Time,Breakfast Foods,Frozen Foods,Food,0.7,13.9,11.8,0,0,30
+prod27532,Imagine,Breakfast Foods,Frozen Foods,Food,3.87,7.2,4.19,1,0,27
+prod27533,Imagine,Breakfast Foods,Frozen Foods,Food,1.63,8.41,7.4,1,0,1
+prod27534,Big Time,Breakfast Foods,Frozen Foods,Food,3.69,19.6,17.6,0,0,33
+prod27535,PigTail,Breakfast Foods,Frozen Foods,Food,0.51,14.7,12.6,0,0,26
+prod27537,Carrington,Breakfast Foods,Frozen Foods,Food,2.87,13.7,11.6,1,1,36
+prod27538,Carrington,Breakfast Foods,Frozen Foods,Food,2.74,10.3,8.3,1,0,29
+prod27540,Imagine,Breakfast Foods,Frozen Foods,Food,1.81,6.27,5.26,0,0,3
+prod27541,PigTail,Breakfast Foods,Frozen Foods,Food,2.13,11.2,9.19,1,0,7
+prod27542,Carrington,Breakfast Foods,Frozen Foods,Food,1.31,10.4,8.39,1,1,32
+prod27545,Big Time,Breakfast Foods,Frozen Foods,Food,1.12,21.5,19.5,1,0,14
+prod27547,Carrington,Breakfast Foods,Frozen Foods,Food,0.57,7.64,5.63,0,1,22
+prod27557,Golden,Breakfast Foods,Frozen Foods,Food,0.77,10.2,8.19,0,1,2
+prod27559,PigTail,Breakfast Foods,Frozen Foods,Food,0.55,15.9,14.8,0,0,29
+prod27565,Golden,Breakfast Foods,Frozen Foods,Food,0.86,7.86,6.86,1,0,6
+prod27570,Big Time,Breakfast Foods,Frozen Foods,Food,0.87,10.2,8.19,0,0,29
+prod27578,Golden,Breakfast Foods,Frozen Foods,Food,2.7,21.3,18.2,0,1,25
+prod27585,PigTail,Breakfast Foods,Frozen Foods,Food,2.24,17.6,16.6,1,0,11
+prod27598,Imagine,Breakfast Foods,Frozen Foods,Food,1.19,15.3,13.3,1,0,1
+prod28031,Nationeel,Snack Foods,Snack Foods,Food,2.34,17.0,15.0,1,1,31
+prod28032,Horatio,Snack Foods,Snack Foods,Food,1.71,9.63,7.63,1,1,11
+prod28033,Best Choice,Snack Foods,Snack Foods,Food,1.97,8.17,5.17,0,1,32
+prod28037,Fast,Snack Foods,Snack Foods,Food,1.68,10.5,9.5,1,0,34
+prod28041,Fort West,Snack Foods,Snack Foods,Food,0.95,13.8,12.8,1,0,6
+prod28164,Golden,Vegetables,Frozen Foods,Food,2.97,14.2,13.1,0,1,3
+prod28165,Big Time,Vegetables,Frozen Foods,Food,1.43,9.57,8.56,1,0,34
+prod28166,Imagine,Vegetables,Frozen Foods,Food,2.89,13.8,10.8,1,0,3
+prod28167,PigTail,Vegetables,Frozen Foods,Food,2.31,6.88,4.88,1,0,29
+prod28168,Carrington,Vegetables,Frozen Foods,Food,2.22,16.1,14.1,1,0,29
+prod28169,Golden,Vegetables,Frozen Foods,Food,0.72,20.6,18.6,0,1,13
+prod28170,Golden,Vegetables,Frozen Foods,Food,1.59,20.5,17.5,0,0,4
+prod28171,Big Time,Vegetables,Frozen Foods,Food,1.35,12.0,9.0,0,0,5
+prod28173,Big Time,Vegetables,Frozen Foods,Food,1.38,18.9,15.8,1,1,14
+prod28179,PigTail,Vegetables,Frozen Foods,Food,3.95,7.54,6.53,1,0,9
+prod28186,Imagine,Vegetables,Frozen Foods,Food,3.68,9.79,8.78,1,1,33
+prod28188,Carrington,Vegetables,Frozen Foods,Food,0.92,6.87,5.86,0,0,7
+prod28197,Carrington,Vegetables,Frozen Foods,Food,2.41,8.15,6.14,0,0,7
+prod28200,Imagine,Vegetables,Frozen Foods,Food,0.51,17.6,14.6,1,1,30
+prod28202,PigTail,Vegetables,Frozen Foods,Food,0.81,9.94,7.93,0,0,13
+prod28550,Musial,Candy,Snacks,Food,1.66,8.49,6.48,1,0,19
+prod28551,Atomic,Candy,Snacks,Food,3.33,11.2,8.19,0,1,18
+prod28553,Thresher,Candy,Snacks,Food,1.11,11.7,9.69,1,1,9
+prod28554,Gulf Coast,Candy,Snacks,Food,3.43,13.2,10.1,0,0,5
+prod28555,Choice,Candy,Snacks,Food,0.53,6.89,5.88,0,1,5
+prod28653,Nationeel,Snack Foods,Snack Foods,Food,2.98,10.8,7.8,1,1,25
+prod28655,Fast,Snack Foods,Snack Foods,Food,3.74,8.42,6.42,1,0,21
+prod28656,Best Choice,Snack Foods,Snack Foods,Food,0.82,8.71,6.71,0,1,11
+prod28657,Fort West,Snack Foods,Snack Foods,Food,2.7,16.3,14.2,1,1,25
+prod28658,Horatio,Snack Foods,Snack Foods,Food,2.63,12.6,9.6,0,0,29
+prod28659,Nationeel,Snack Foods,Snack Foods,Food,1.33,7.17,6.17,0,1,18
+prod28660,Best Choice,Snack Foods,Snack Foods,Food,2.91,21.5,20.5,1,0,24
+prod28662,Horatio,Snack Foods,Snack Foods,Food,2.21,18.5,17.5,0,0,20
+prod28668,Fort West,Snack Foods,Snack Foods,Food,1.4,9.14,6.14,0,1,33
+prod28681,Fast,Snack Foods,Snack Foods,Food,0.55,18.6,16.6,1,1,25
+prod28886,Dollar,Magazines,Periodicals,Non-Consumable,1.69,13.2,12.1,0,0,13
+prod28887,Mighty Good,Magazines,Periodicals,Non-Consumable,2.7,18.3,17.2,0,0,4
+prod28891,Robust,Magazines,Periodicals,Non-Consumable,1.98,19.5,17.5,1,0,29
+prod28894,Gauss,Magazines,Periodicals,Non-Consumable,1.61,13.3,12.3,0,0,10
+prod28914,Excel,Magazines,Periodicals,Non-Consumable,2.15,8.39,6.39,0,0,16
+prod29019,Bravo,Vegetables,Canned Foods,Food,2.59,9.63,7.63,0,1,20
+prod29020,Just Right,Vegetables,Canned Foods,Food,1.2,10.0,9.0,1,1,13
+prod29021,Better,Vegetables,Canned Foods,Food,1.32,17.9,16.8,0,1,33
+prod29022,Just Right,Vegetables,Canned Foods,Food,2.15,18.0,16.0,0,1,23
+prod29023,Blue Label,Vegetables,Canned Foods,Food,2.29,15.0,14.0,0,0,31
+prod29024,Just Right,Vegetables,Canned Foods,Food,2.49,8.02,5.02,1,0,20
+prod29025,Blue Label,Vegetables,Canned Foods,Food,3.91,21.9,20.8,1,0,33
+prod29026,Bravo,Vegetables,Canned Foods,Food,1.55,17.5,15.5,1,1,17
+prod29027,Better,Vegetables,Canned Foods,Food,2.83,15.9,13.8,0,0,22
+prod29028,Just Right,Vegetables,Canned Foods,Food,1.36,19.7,18.7,1,0,34
+prod29029,Bravo,Vegetables,Canned Foods,Food,0.87,13.4,11.3,0,0,32
+prod29030,Better,Vegetables,Canned Foods,Food,0.6,8.6,7.6,0,1,26
+prod29032,Just Right,Vegetables,Canned Foods,Food,3.83,15.2,13.1,0,0,3
+prod29033,Better,Vegetables,Canned Foods,Food,1.4,21.3,19.2,1,1,31
+prod29034,Bravo,Vegetables,Canned Foods,Food,3.28,16.2,14.2,0,0,18
+prod29035,Better,Vegetables,Canned Foods,Food,1.74,10.9,8.89,1,1,22
+prod29037,Blue Label,Vegetables,Canned Foods,Food,3.83,21.2,18.2,0,1,31
+prod29039,Pleasant,Vegetables,Canned Foods,Food,2.54,19.9,17.8,1,0,25
+prod29044,Pleasant,Vegetables,Canned Foods,Food,1.18,10.0,8.0,0,0,27
+prod29051,Blue Label,Vegetables,Canned Foods,Food,2.78,21.3,19.2,0,1,22
+prod29053,Better,Vegetables,Canned Foods,Food,1.26,11.6,10.6,1,0,26
+prod29058,Blue Label,Vegetables,Canned Foods,Food,2.67,12.6,10.6,1,0,26
+prod29059,Just Right,Vegetables,Canned Foods,Food,1.74,8.66,6.65,1,0,32
+prod29066,Pleasant,Vegetables,Canned Foods,Food,1.6,7.5,6.5,1,0,30
+prod29071,Bravo,Vegetables,Canned Foods,Food,3.15,6.8,5.8,1,0,22
+prod29074,Pleasant,Vegetables,Canned Foods,Food,0.72,9.71,7.71,1,0,26
+prod29085,Pleasant,Vegetables,Canned Foods,Food,3.5,6.12,3.11,1,1,13
+prod29097,Bravo,Vegetables,Canned Foods,Food,1.66,7.39,6.38,1,1,21
+prod29103,Pleasant,Vegetables,Canned Foods,Food,3.97,11.5,8.5,0,0,16
+prod29181,Blue Label,Vegetables,Canned Foods,Food,2.99,6.91,3.9,1,1,34
+prod29784,Big Time,Frozen Entrees,Frozen Foods,Food,2.2,15.7,14.6,1,1,19
+prod29785,Imagine,Frozen Entrees,Frozen Foods,Food,2.32,15.0,13.0,1,1,13
+prod29786,Carrington,Frozen Entrees,Frozen Foods,Food,3.68,10.2,9.19,0,1,14
+prod29788,Golden,Frozen Entrees,Frozen Foods,Food,2.11,10.7,9.69,1,1,35
+prod29790,PigTail,Frozen Entrees,Frozen Foods,Food,2.91,21.9,19.8,1,0,23
+prod29791,Imagine,Frozen Entrees,Frozen Foods,Food,0.86,9.18,7.18,0,1,10
+prod29792,PigTail,Frozen Entrees,Frozen Foods,Food,2.14,14.5,13.5,1,1,35
+prod29793,Golden,Frozen Entrees,Frozen Foods,Food,1.83,9.43,6.43,0,0,33
+prod29796,Big Time,Frozen Entrees,Frozen Foods,Food,3.91,10.9,8.89,1,1,15
+prod29797,Carrington,Frozen Entrees,Frozen Foods,Food,1.77,21.2,20.2,1,1,2
+prod29799,Golden,Frozen Entrees,Frozen Foods,Food,0.59,18.3,16.2,1,0,26
+prod29803,Carrington,Frozen Entrees,Frozen Foods,Food,2.35,9.06,6.06,1,0,2
+prod29824,PigTail,Frozen Entrees,Frozen Foods,Food,1.11,18.4,16.3,1,0,17
+prod29826,Big Time,Frozen Entrees,Frozen Foods,Food,3.21,6.35,5.34,0,1,34
+prod29838,Imagine,Frozen Entrees,Frozen Foods,Food,2.45,14.4,13.3,1,1,32
+prod30161,Tip Top,Seafood,Seafood,Food,3.6,21.3,20.2,1,1,22
+prod30163,Dual City,Seafood,Seafood,Food,1.7,12.7,10.6,1,0,3
+prod30164,Curlew,Seafood,Seafood,Food,2.58,6.87,3.86,0,1,4
+prod30169,Kiwi,Seafood,Seafood,Food,2.38,11.9,8.89,0,0,15
+prod30171,Amigo,Seafood,Seafood,Food,2.79,7.92,6.92,0,1,9
+prod30279,Choice,Candy,Snacks,Food,1.9,18.4,17.3,1,0,20
+prod30280,Atomic,Candy,Snacks,Food,3.16,7.79,5.78,1,1,33
+prod30282,Choice,Candy,Snacks,Food,1.72,18.6,16.6,1,0,27
+prod30284,Gulf Coast,Candy,Snacks,Food,1.84,18.9,16.8,1,0,14
+prod30285,Thresher,Candy,Snacks,Food,1.81,7.2,5.19,0,0,7
+prod30286,Thresher,Candy,Snacks,Food,3.65,11.1,8.1,0,0,34
+prod30288,Gulf Coast,Candy,Snacks,Food,3.54,10.9,7.89,1,0,33
+prod30290,Musial,Candy,Snacks,Food,3.14,10.3,7.3,0,0,15
+prod30294,Musial,Candy,Snacks,Food,2.92,14.6,12.6,0,0,5
+prod30297,Atomic,Candy,Snacks,Food,2.16,17.5,15.5,0,1,32
+prod30533,High Quality,Kitchen Products,Household,Non-Consumable,2.81,20.7,19.7,1,0,17
+prod30534,Sunset,Kitchen Products,Household,Non-Consumable,2.71,18.0,15.0,0,0,12
+prod30539,Denny,Kitchen Products,Household,Non-Consumable,3.81,20.6,18.6,1,0,26
+prod30542,Cormorant,Kitchen Products,Household,Non-Consumable,3.72,17.7,15.7,1,0,8
+prod30543,Red Wing,Kitchen Products,Household,Non-Consumable,2.63,8.79,5.78,0,0,23
+prod30671,Imagine,Pizza,Frozen Foods,Food,2.7,16.2,15.2,1,0,33
+prod30672,PigTail,Pizza,Frozen Foods,Food,1.68,6.06,3.05,0,1,30
+prod30673,PigTail,Pizza,Frozen Foods,Food,1.21,10.1,8.1,1,1,13
+prod30674,Imagine,Pizza,Frozen Foods,Food,0.57,16.9,14.8,1,1,16
+prod30675,Carrington,Pizza,Frozen Foods,Food,3.73,18.5,15.5,0,0,5
+prod30676,Golden,Pizza,Frozen Foods,Food,0.83,17.1,16.1,1,0,25
+prod30677,Big Time,Pizza,Frozen Foods,Food,0.8,15.5,12.5,1,1,7
+prod30678,Carrington,Pizza,Frozen Foods,Food,3.45,19.2,18.2,1,1,12
+prod30681,Big Time,Pizza,Frozen Foods,Food,1.25,6.98,3.98,1,0,35
+prod30682,Golden,Pizza,Frozen Foods,Food,1.78,19.0,17.0,1,0,19
+prod30685,PigTail,Pizza,Frozen Foods,Food,1.45,18.7,16.7,0,0,14
+prod30686,Big Time,Pizza,Frozen Foods,Food,1.55,13.6,11.6,1,1,33
+prod30687,Golden,Pizza,Frozen Foods,Food,0.96,16.4,14.3,1,0,21
+prod30689,Carrington,Pizza,Frozen Foods,Food,3.39,18.8,17.7,1,0,17
+prod30691,Imagine,Pizza,Frozen Foods,Food,1.55,6.88,4.88,1,1,24
+prod30692,Golden,Pizza,Frozen Foods,Food,2.68,12.8,10.8,1,1,17
+prod30701,Big Time,Pizza,Frozen Foods,Food,1.13,9.16,7.15,1,1,8
+prod30702,Imagine,Pizza,Frozen Foods,Food,3.46,11.0,9.0,0,1,25
+prod30713,Carrington,Pizza,Frozen Foods,Food,2.57,12.1,11.1,1,1,35
+prod30735,PigTail,Pizza,Frozen Foods,Food,2.64,12.6,9.6,1,1,10
+prod31214,Radius,Breakfast Foods,Breakfast Foods,Food,2.53,13.1,10.1,1,1,12
+prod31215,Best,Breakfast Foods,Breakfast Foods,Food,2.47,8.87,6.86,1,0,5
+prod31216,Jeffers,Breakfast Foods,Breakfast Foods,Food,2.29,21.3,20.2,0,1,14
+prod31217,Johnson,Breakfast Foods,Breakfast Foods,Food,0.76,11.1,10.1,0,1,6
+prod31218,Jeffers,Breakfast Foods,Breakfast Foods,Food,1.54,8.9,6.89,1,1,14
+prod31219,Johnson,Breakfast Foods,Breakfast Foods,Food,0.83,10.5,7.5,0,1,25
+prod31220,Radius,Breakfast Foods,Breakfast Foods,Food,0.86,8.4,7.39,0,1,2
+prod31221,Jeffers,Breakfast Foods,Breakfast Foods,Food,1.93,21.6,20.6,1,1,33
+prod31222,Johnson,Breakfast Foods,Breakfast Foods,Food,2.35,21.2,19.2,0,1,6
+prod31223,Special,Breakfast Foods,Breakfast Foods,Food,2.91,21.8,19.7,1,0,10
+prod31227,Special,Breakfast Foods,Breakfast Foods,Food,3.47,9.56,6.56,0,0,25
+prod31228,Jeffers,Breakfast Foods,Breakfast Foods,Food,2.65,10.4,7.39,0,0,20
+prod31230,Radius,Breakfast Foods,Breakfast Foods,Food,2.64,12.2,9.19,0,1,19
+prod31232,Best,Breakfast Foods,Breakfast Foods,Food,1.97,7.43,5.42,0,0,13
+prod31234,Best,Breakfast Foods,Breakfast Foods,Food,3.5,15.4,12.3,0,1,19
+prod31236,Johnson,Breakfast Foods,Breakfast Foods,Food,0.6,18.3,16.2,1,1,17
+prod31237,Special,Breakfast Foods,Breakfast Foods,Food,2.74,17.0,16.0,1,1,17
+prod31238,Special,Breakfast Foods,Breakfast Foods,Food,1.93,16.1,15.1,1,0,17
+prod31239,Radius,Breakfast Foods,Breakfast Foods,Food,1.38,7.92,5.92,0,1,34
+prod31248,Best,Breakfast Foods,Breakfast Foods,Food,1.51,19.1,18.1,1,0,29
+prod31728,Consolidated,Cold Remedies,Health and Hygiene,Non-Consumable,2.19,11.0,9.0,0,0,26
+prod31729,Faux Products,Cold Remedies,Health and Hygiene,Non-Consumable,1.55,9.49,7.48,1,0,23
+prod31731,Hilltop,Cold Remedies,Health and Hygiene,Non-Consumable,0.73,12.9,9.89,1,0,6
+prod31732,Bird Call,Cold Remedies,Health and Hygiene,Non-Consumable,2.89,17.3,16.2,0,0,4
+prod31733,Steady,Cold Remedies,Health and Hygiene,Non-Consumable,3.5,21.8,20.7,1,0,1
+prod31736,Steady,Cold Remedies,Health and Hygiene,Non-Consumable,0.67,19.2,17.2,1,0,26
+prod31739,Faux Products,Cold Remedies,Health and Hygiene,Non-Consumable,0.53,14.5,12.5,0,0,26
+prod31745,Hilltop,Cold Remedies,Health and Hygiene,Non-Consumable,2.83,10.6,8.6,1,0,4
+prod31757,Bird Call,Cold Remedies,Health and Hygiene,Non-Consumable,1.74,12.8,10.8,1,0,35
+prod31766,Consolidated,Cold Remedies,Health and Hygiene,Non-Consumable,1.95,15.5,12.5,0,0,29
+prod31993,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,3.62,19.3,16.2,0,0,32
+prod31994,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,2.24,21.1,20.1,0,0,8
+prod31995,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,1.89,16.5,13.5,1,0,5
+prod31996,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,2.11,16.5,13.5,0,0,4
+prod31998,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,0.57,18.0,15.0,0,0,24
+prod32000,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.23,21.3,20.2,1,0,10
+prod32001,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,1.92,9.26,8.26,0,0,15
+prod32004,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,0.57,13.7,10.6,1,0,6
+prod32006,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.4,19.1,16.1,0,0,26
+prod32013,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,0.85,14.7,12.6,0,0,29
+prod32242,Excel,Magazines,Periodicals,Non-Consumable,0.55,21.0,19.0,0,0,24
+prod32244,Gauss,Magazines,Periodicals,Non-Consumable,3.8,13.7,10.6,1,0,12
+prod32245,Dollar,Magazines,Periodicals,Non-Consumable,0.86,19.1,18.1,1,0,7
+prod32247,Mighty Good,Magazines,Periodicals,Non-Consumable,2.45,15.0,14.0,0,0,8
+prod32252,Robust,Magazines,Periodicals,Non-Consumable,2.47,11.2,10.1,1,0,31
+prod32391,Cormorant,Kitchen Products,Household,Non-Consumable,3.95,7.24,5.23,0,0,31
+prod32392,Red Wing,Kitchen Products,Household,Non-Consumable,2.9,7.57,5.57,1,0,15
+prod32393,High Quality,Kitchen Products,Household,Non-Consumable,2.15,9.01,8.01,0,0,6
+prod32395,Sunset,Kitchen Products,Household,Non-Consumable,2.65,9.92,7.92,0,0,29
+prod32396,Denny,Kitchen Products,Household,Non-Consumable,1.71,10.1,8.1,0,0,14
+prod32512,Blue Label,Canned Anchovies,Canned Foods,Food,1.36,8.27,6.27,0,1,16
+prod32513,Better,Canned Anchovies,Canned Foods,Food,2.28,10.5,7.5,1,1,24
+prod32514,Pleasant,Canned Anchovies,Canned Foods,Food,3.44,9.42,7.42,1,1,30
+prod32515,Just Right,Canned Anchovies,Canned Foods,Food,2.85,10.1,7.1,1,1,9
+prod32522,Bravo,Canned Anchovies,Canned Foods,Food,2.31,8.33,5.32,0,1,5
+prod32645,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,3.55,18.6,16.6,1,0,14
+prod32647,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,1.8,11.5,8.5,1,0,32
+prod32648,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,2.28,16.2,15.2,1,0,1
+prod32649,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,2.35,11.3,9.3,0,0,13
+prod32651,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,1.43,18.9,16.8,1,0,35
+prod32654,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.28,20.1,19.1,0,0,7
+prod32655,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,2.38,16.0,13.0,1,0,16
+prod32659,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,2.93,15.3,14.3,1,0,25
+prod32660,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,0.73,16.2,14.2,0,0,4
+prod32662,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,3.57,16.3,13.2,0,0,19
+prod32664,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,1.51,12.0,10.0,1,0,7
+prod32665,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,1.48,8.27,6.27,1,0,20
+prod32671,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,1.97,12.5,10.5,0,0,13
+prod32674,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.98,11.6,8.6,1,0,21
+prod32741,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,0.96,9.42,7.42,1,0,27
+prod33014,Skinner,Drinks,Beverages,Drink,2.28,21.8,19.7,0,0,24
+prod33015,Fabulous,Drinks,Beverages,Drink,2.84,14.5,12.5,0,0,23
+prod33016,Excellent,Drinks,Beverages,Drink,1.85,9.26,7.26,0,1,22
+prod33017,Skinner,Drinks,Beverages,Drink,0.67,7.11,5.11,0,1,16
+prod33019,Skinner,Drinks,Beverages,Drink,3.58,11.4,8.39,1,0,28
+prod33020,Fabulous,Drinks,Beverages,Drink,3.95,18.3,16.2,0,0,35
+prod33023,Token,Drinks,Beverages,Drink,0.74,15.6,13.6,1,0,33
+prod33024,Washington,Drinks,Beverages,Drink,0.74,7.42,4.42,0,1,18
+prod33029,Token,Drinks,Beverages,Drink,2.46,20.4,18.3,1,1,16
+prod33031,Excellent,Drinks,Beverages,Drink,2.85,7.12,5.11,0,1,16
+prod33032,Washington,Drinks,Beverages,Drink,3.51,20.0,19.0,0,1,3
+prod33037,Token,Drinks,Beverages,Drink,1.61,13.8,10.8,1,0,18
+prod33038,Fabulous,Drinks,Beverages,Drink,2.51,10.6,8.6,1,0,32
+prod33040,Excellent,Drinks,Beverages,Drink,2.98,12.8,10.8,0,0,28
+prod33086,Washington,Drinks,Beverages,Drink,0.83,13.1,11.1,1,1,17
+prod33378,Red Wing,Cleaning Supplies,Household,Non-Consumable,1.68,10.4,7.39,1,0,11
+prod33379,Denny,Cleaning Supplies,Household,Non-Consumable,0.51,20.3,18.2,1,0,2
+prod33380,Cormorant,Cleaning Supplies,Household,Non-Consumable,1.92,19.6,16.6,0,0,36
+prod33381,High Quality,Cleaning Supplies,Household,Non-Consumable,2.19,21.8,20.7,1,0,27
+prod33382,Denny,Cleaning Supplies,Household,Non-Consumable,2.32,8.48,6.47,0,0,11
+prod33383,Red Wing,Cleaning Supplies,Household,Non-Consumable,0.93,14.0,12.0,0,0,3
+prod33384,Red Wing,Cleaning Supplies,Household,Non-Consumable,2.92,19.4,18.3,1,0,24
+prod33387,Sunset,Cleaning Supplies,Household,Non-Consumable,1.85,16.4,14.3,1,0,19
+prod33388,Cormorant,Cleaning Supplies,Household,Non-Consumable,3.81,15.9,13.8,0,0,32
+prod33389,High Quality,Cleaning Supplies,Household,Non-Consumable,2.91,9.51,7.51,0,0,31
+prod33392,High Quality,Cleaning Supplies,Household,Non-Consumable,1.91,21.9,18.8,1,0,10
+prod33401,Cormorant,Cleaning Supplies,Household,Non-Consumable,0.62,20.1,18.1,1,0,3
+prod33413,Sunset,Cleaning Supplies,Household,Non-Consumable,1.16,20.9,19.8,1,0,26
+prod33417,Sunset,Cleaning Supplies,Household,Non-Consumable,0.83,21.0,18.0,0,0,2
+prod33418,Denny,Cleaning Supplies,Household,Non-Consumable,2.46,9.39,7.39,0,0,5
+prod33742,Moms,Meat,Deli,Food,1.62,10.2,8.19,1,1,27
+prod33744,American,Meat,Deli,Food,2.97,12.3,10.3,1,0,33
+prod33748,Red Spade,Meat,Deli,Food,2.76,21.8,20.7,0,0,7
+prod33749,Lake,Meat,Deli,Food,2.66,21.2,19.2,0,1,27
+prod33757,Cutting Edge,Meat,Deli,Food,1.99,15.6,14.6,0,1,25
+prod33879,Consolidated,Hygiene,Health and Hygiene,Non-Consumable,1.28,11.6,9.6,1,0,2
+prod33880,Faux Products,Hygiene,Health and Hygiene,Non-Consumable,0.65,20.6,18.6,1,0,33
+prod33881,Steady,Hygiene,Health and Hygiene,Non-Consumable,0.6,11.5,10.5,0,0,30
+prod33883,Steady,Hygiene,Health and Hygiene,Non-Consumable,0.67,8.43,7.43,0,0,6
+prod33884,Hilltop,Hygiene,Health and Hygiene,Non-Consumable,2.76,17.2,15.2,0,0,30
+prod33885,Consolidated,Hygiene,Health and Hygiene,Non-Consumable,2.38,10.7,8.69,1,0,2
+prod33887,Faux Products,Hygiene,Health and Hygiene,Non-Consumable,3.97,8.33,5.32,1,0,8
+prod33888,Bird Call,Hygiene,Health and Hygiene,Non-Consumable,1.85,18.5,15.5,0,0,8
+prod33889,Bird Call,Hygiene,Health and Hygiene,Non-Consumable,1.62,17.6,15.6,0,0,9
+prod33890,Bird Call,Hygiene,Health and Hygiene,Non-Consumable,1.48,14.0,11.0,0,0,34
+prod33896,Consolidated,Hygiene,Health and Hygiene,Non-Consumable,2.13,10.1,7.1,0,0,23
+prod33897,Hilltop,Hygiene,Health and Hygiene,Non-Consumable,1.6,19.8,17.7,1,0,29
+prod33898,Faux Products,Hygiene,Health and Hygiene,Non-Consumable,0.92,20.6,19.6,0,0,31
+prod33899,Bird Call,Hygiene,Health and Hygiene,Non-Consumable,1.4,17.0,16.0,0,0,29
+prod33900,Steady,Hygiene,Health and Hygiene,Non-Consumable,2.14,8.89,5.89,0,0,26
+prod33902,Hilltop,Hygiene,Health and Hygiene,Non-Consumable,2.66,8.5,6.5,0,0,6
+prod33906,Steady,Hygiene,Health and Hygiene,Non-Consumable,1.28,9.18,6.18,0,0,29
+prod33912,Consolidated,Hygiene,Health and Hygiene,Non-Consumable,1.85,7.12,4.11,1,0,34
+prod33921,Hilltop,Hygiene,Health and Hygiene,Non-Consumable,0.53,6.18,4.17,1,0,24
+prod33962,Faux Products,Hygiene,Health and Hygiene,Non-Consumable,2.75,9.24,7.23,0,0,31
+prod34404,Carrington,Vegetables,Frozen Foods,Food,1.6,11.9,9.89,0,0,10
+prod34405,Golden,Vegetables,Frozen Foods,Food,2.19,11.9,9.89,1,1,34
+prod34406,Big Time,Vegetables,Frozen Foods,Food,3.57,8.5,6.5,0,0,10
+prod34407,Imagine,Vegetables,Frozen Foods,Food,1.72,17.7,15.7,1,1,4
+prod34408,PigTail,Vegetables,Frozen Foods,Food,1.91,6.99,4.98,0,0,12
+prod34410,Imagine,Vegetables,Frozen Foods,Food,1.89,17.1,15.1,0,1,26
+prod34411,Big Time,Vegetables,Frozen Foods,Food,3.32,7.2,6.19,1,0,21
+prod34413,Big Time,Vegetables,Frozen Foods,Food,2.72,14.2,12.1,1,0,4
+prod34414,PigTail,Vegetables,Frozen Foods,Food,3.7,12.7,11.6,1,0,9
+prod34415,Imagine,Vegetables,Frozen Foods,Food,1.91,21.0,19.0,1,1,8
+prod34416,Carrington,Vegetables,Frozen Foods,Food,2.71,21.8,19.7,1,1,3
+prod34417,PigTail,Vegetables,Frozen Foods,Food,1.27,10.2,8.19,1,1,17
+prod34421,Golden,Vegetables,Frozen Foods,Food,3.72,6.16,4.15,1,0,21
+prod34423,Carrington,Vegetables,Frozen Foods,Food,1.52,9.89,7.89,1,0,19
+prod34424,Imagine,Vegetables,Frozen Foods,Food,3.92,15.2,12.1,1,1,20
+prod34432,Carrington,Vegetables,Frozen Foods,Food,0.63,17.2,15.2,1,0,26
+prod34433,Big Time,Vegetables,Frozen Foods,Food,3.16,13.2,11.1,1,0,15
+prod34440,Golden,Vegetables,Frozen Foods,Food,1.81,19.9,18.8,0,0,25
+prod34442,Golden,Vegetables,Frozen Foods,Food,1.46,8.58,5.57,1,0,29
+prod34444,PigTail,Vegetables,Frozen Foods,Food,1.66,9.84,7.84,1,1,32
+prod34452,Carrington,Vegetables,Frozen Foods,Food,1.48,9.18,8.18,0,0,1
+prod34462,PigTail,Vegetables,Frozen Foods,Food,1.57,7.77,5.76,0,1,26
+prod34469,Golden,Vegetables,Frozen Foods,Food,2.96,14.6,11.6,1,1,36
+prod34473,Big Time,Vegetables,Frozen Foods,Food,1.64,20.7,18.7,0,0,1
+prod34484,Imagine,Vegetables,Frozen Foods,Food,1.72,9.39,7.39,1,1,30
+prod35023,Cormorant,Plastic Products,Household,Non-Consumable,2.98,15.6,13.6,1,0,6
+prod35024,Denny,Plastic Products,Household,Non-Consumable,0.7,14.0,12.0,0,0,3
+prod35025,Red Wing,Plastic Products,Household,Non-Consumable,3.46,16.5,15.5,1,0,17
+prod35026,Sunset,Plastic Products,Household,Non-Consumable,2.57,13.1,11.1,0,0,24
+prod35029,Sunset,Plastic Products,Household,Non-Consumable,2.59,19.0,17.0,0,0,7
+prod35030,Cormorant,Plastic Products,Household,Non-Consumable,2.68,17.1,16.1,1,0,19
+prod35031,Cormorant,Plastic Products,Household,Non-Consumable,1.47,20.7,18.7,0,0,29
+prod35033,Denny,Plastic Products,Household,Non-Consumable,2.43,6.83,4.82,1,0,18
+prod35034,High Quality,Plastic Products,Household,Non-Consumable,3.45,7.86,5.86,1,0,32
+prod35035,Red Wing,Plastic Products,Household,Non-Consumable,2.59,20.1,18.1,0,0,9
+prod35038,High Quality,Plastic Products,Household,Non-Consumable,1.95,20.2,18.2,1,0,28
+prod35041,High Quality,Plastic Products,Household,Non-Consumable,2.64,18.4,16.3,0,0,18
+prod35044,Denny,Plastic Products,Household,Non-Consumable,3.89,7.74,4.73,0,0,6
+prod35065,Red Wing,Plastic Products,Household,Non-Consumable,3.75,11.0,9.0,0,0,31
+prod35096,Sunset,Plastic Products,Household,Non-Consumable,1.13,21.7,19.7,1,0,5
+prod35382,Fort West,Snack Foods,Snack Foods,Food,0.66,11.2,9.19,1,0,9
+prod35383,Fast,Snack Foods,Snack Foods,Food,2.31,9.02,7.02,1,0,15
+prod35384,Horatio,Snack Foods,Snack Foods,Food,2.31,7.04,5.03,0,0,3
+prod35386,Fast,Snack Foods,Snack Foods,Food,2.95,16.1,14.1,1,0,12
+prod35387,Fast,Snack Foods,Snack Foods,Food,2.78,14.7,12.6,0,0,30
+prod35388,Nationeel,Snack Foods,Snack Foods,Food,2.41,10.2,8.19,0,1,25
+prod35389,Horatio,Snack Foods,Snack Foods,Food,3.18,12.0,9.0,0,1,31
+prod35390,Best Choice,Snack Foods,Snack Foods,Food,2.46,18.6,16.6,1,0,1
+prod35391,Fort West,Snack Foods,Snack Foods,Food,1.93,10.5,9.5,1,1,34
+prod35392,Best Choice,Snack Foods,Snack Foods,Food,2.63,16.1,15.1,0,0,16
+prod35393,Horatio,Snack Foods,Snack Foods,Food,2.65,21.8,20.7,1,0,7
+prod35398,Fort West,Snack Foods,Snack Foods,Food,0.6,19.9,17.8,1,0,24
+prod35399,Fort West,Snack Foods,Snack Foods,Food,1.5,8.76,6.76,1,0,6
+prod35402,Best Choice,Snack Foods,Snack Foods,Food,1.81,10.8,8.8,0,1,7
+prod35404,Nationeel,Snack Foods,Snack Foods,Food,1.6,10.9,7.89,1,0,11
+prod35405,Best Choice,Snack Foods,Snack Foods,Food,3.55,11.5,8.5,0,0,35
+prod35412,Horatio,Snack Foods,Snack Foods,Food,2.27,19.6,17.6,0,0,6
+prod35418,Fast,Snack Foods,Snack Foods,Food,1.64,8.05,6.05,0,0,30
+prod35425,Nationeel,Snack Foods,Snack Foods,Food,2.22,6.98,5.98,0,0,5
+prod35439,Nationeel,Snack Foods,Snack Foods,Food,2.22,11.7,8.69,1,0,9
+prod35864,Red Wing,Kitchen Products,Household,Non-Consumable,0.73,14.0,12.0,0,0,24
+prod35865,Sunset,Kitchen Products,Household,Non-Consumable,1.9,17.4,15.3,1,0,19
+prod35868,Denny,Kitchen Products,Household,Non-Consumable,2.85,13.8,10.8,1,0,6
+prod35872,High Quality,Kitchen Products,Household,Non-Consumable,0.72,20.9,18.8,1,0,11
+prod35896,Cormorant,Kitchen Products,Household,Non-Consumable,0.52,8.17,7.17,1,0,1
+prod35990,Booker,Dairy,Dairy,Food,1.72,6.75,4.75,1,1,13
+prod35991,Even Better,Dairy,Dairy,Food,0.82,20.3,18.2,0,0,34
+prod35992,Carlson,Dairy,Dairy,Food,2.36,8.79,5.78,1,0,33
+prod35996,Even Better,Dairy,Dairy,Food,2.88,12.3,9.3,0,0,5
+prod35998,Gorilla,Dairy,Dairy,Food,0.89,14.5,12.5,0,1,19
+prod35999,Booker,Dairy,Dairy,Food,1.44,8.25,5.25,0,1,22
+prod36003,Carlson,Dairy,Dairy,Food,0.81,12.2,11.1,0,0,17
+prod36006,Club,Dairy,Dairy,Food,0.53,13.6,11.6,0,0,9
+prod36015,Club,Dairy,Dairy,Food,2.93,10.7,9.69,0,1,26
+prod36016,Gorilla,Dairy,Dairy,Food,2.66,21.2,20.2,1,0,5
+prod36237,Gauss,Magazines,Periodicals,Non-Consumable,3.61,15.6,13.6,0,0,29
+prod36239,Mighty Good,Magazines,Periodicals,Non-Consumable,1.52,6.5,4.5,0,0,16
+prod36241,Dollar,Magazines,Periodicals,Non-Consumable,2.15,16.4,14.3,1,0,14
+prod36242,Excel,Magazines,Periodicals,Non-Consumable,0.77,12.4,9.39,1,0,28
+prod36243,Robust,Magazines,Periodicals,Non-Consumable,1.26,10.4,8.39,0,0,23
+prod36361,CDR,Baking Goods,Baking Goods,Food,2.38,16.1,14.1,1,0,14
+prod36362,Plato,Baking Goods,Baking Goods,Food,2.26,15.7,14.6,1,0,35
+prod36363,Landslide,Baking Goods,Baking Goods,Food,1.82,21.1,20.1,1,0,20
+prod36364,Super,Baking Goods,Baking Goods,Food,3.45,13.7,11.6,1,0,26
+prod36365,CDR,Baking Goods,Baking Goods,Food,1.16,15.3,13.3,0,0,32
+prod36366,Landslide,Baking Goods,Baking Goods,Food,2.59,11.3,9.3,0,1,2
+prod36367,Super,Baking Goods,Baking Goods,Food,2.83,17.7,15.7,0,1,34
+prod36369,BBB Best,Baking Goods,Baking Goods,Food,0.63,7.72,5.71,0,1,36
+prod36378,Plato,Baking Goods,Baking Goods,Food,1.47,14.8,13.8,1,1,3
+prod36379,Plato,Baking Goods,Baking Goods,Food,3.32,16.5,13.5,1,1,2
+prod36380,Landslide,Baking Goods,Baking Goods,Food,0.82,15.1,13.1,1,0,30
+prod36381,Super,Baking Goods,Baking Goods,Food,2.94,16.8,14.7,1,0,5
+prod36383,BBB Best,Baking Goods,Baking Goods,Food,0.76,11.4,9.39,0,1,4
+prod36392,CDR,Baking Goods,Baking Goods,Food,1.52,17.9,16.8,0,0,19
+prod36402,BBB Best,Baking Goods,Baking Goods,Food,0.53,12.8,11.8,1,0,28
+prod36747,Hilltop,Pain Relievers,Health and Hygiene,Non-Consumable,2.89,18.9,17.8,1,0,23
+prod36748,Consolidated,Pain Relievers,Health and Hygiene,Non-Consumable,1.83,13.6,11.6,1,0,15
+prod36749,Bird Call,Pain Relievers,Health and Hygiene,Non-Consumable,3.18,20.5,17.5,1,0,25
+prod36754,Faux Products,Pain Relievers,Health and Hygiene,Non-Consumable,2.32,11.1,9.1,0,0,31
+prod36755,Steady,Pain Relievers,Health and Hygiene,Non-Consumable,1.53,6.32,4.32,0,0,33
+prod36865,Carlson,Dairy,Dairy,Food,2.25,9.77,8.77,0,0,8
+prod36866,Club,Dairy,Dairy,Food,1.67,17.7,15.7,1,0,33
+prod36867,Even Better,Dairy,Dairy,Food,1.27,19.7,17.7,0,0,20
+prod36868,Gorilla,Dairy,Dairy,Food,2.96,8.58,6.57,1,0,16
+prod36869,Carlson,Dairy,Dairy,Food,2.36,19.6,16.6,1,0,32
+prod36871,Even Better,Dairy,Dairy,Food,3.95,15.9,13.8,1,1,7
+prod36872,Booker,Dairy,Dairy,Food,0.67,7.43,4.42,0,1,13
+prod36877,Gorilla,Dairy,Dairy,Food,1.57,8.79,6.78,0,0,21
+prod36883,Booker,Dairy,Dairy,Food,3.33,18.5,15.5,0,0,24
+prod36892,Club,Dairy,Dairy,Food,3.5,14.3,12.3,1,0,20
+prod37088,Just Right,Canned Oysters,Canned Foods,Food,1.34,14.8,12.8,0,1,36
+prod37089,Bravo,Canned Oysters,Canned Foods,Food,2.12,19.8,18.7,0,1,2
+prod37090,Pleasant,Canned Oysters,Canned Foods,Food,2.43,8.46,7.46,0,0,30
+prod37091,Blue Label,Canned Oysters,Canned Foods,Food,2.21,18.2,16.2,0,1,23
+prod37093,Better,Canned Oysters,Canned Foods,Food,2.12,15.6,12.6,0,0,30
+prod37199,Akron,Hardware,Checkout,Non-Consumable,1.76,11.4,10.3,1,0,19
+prod37200,Framton,Hardware,Checkout,Non-Consumable,3.21,19.8,17.7,1,0,21
+prod37203,Black Tie,Hardware,Checkout,Non-Consumable,0.67,10.6,8.6,0,0,8
+prod37205,Queen,Hardware,Checkout,Non-Consumable,0.89,8.61,5.6,1,0,29
+prod37213,James Bay,Hardware,Checkout,Non-Consumable,3.78,18.3,16.2,0,0,29
+prod37318,High Quality,Paper Products,Household,Non-Consumable,1.64,7.63,4.63,0,0,18
+prod37319,Red Wing,Paper Products,Household,Non-Consumable,1.78,13.4,11.3,1,0,25
+prod37320,Red Wing,Paper Products,Household,Non-Consumable,3.37,18.9,17.8,0,0,18
+prod37321,High Quality,Paper Products,Household,Non-Consumable,3.68,19.9,17.8,0,0,8
+prod37322,Denny,Paper Products,Household,Non-Consumable,1.79,21.1,19.1,0,0,16
+prod37324,Sunset,Paper Products,Household,Non-Consumable,2.63,13.6,11.6,1,0,12
+prod37325,Cormorant,Paper Products,Household,Non-Consumable,3.7,21.8,18.7,0,0,36
+prod37326,Sunset,Paper Products,Household,Non-Consumable,1.75,13.2,11.1,1,0,9
+prod37328,Cormorant,Paper Products,Household,Non-Consumable,1.7,18.1,16.1,0,0,4
+prod37330,Denny,Paper Products,Household,Non-Consumable,1.82,6.03,4.03,0,0,4
+prod37569,Even Better,Dairy,Dairy,Food,2.69,7.42,5.42,1,0,33
+prod37570,Booker,Dairy,Dairy,Food,3.22,21.7,19.7,0,1,5
+prod37571,Gorilla,Dairy,Dairy,Food,0.68,9.71,7.71,1,1,18
+prod37573,Club,Dairy,Dairy,Food,3.82,14.1,11.1,0,1,32
+prod37575,Club,Dairy,Dairy,Food,0.74,13.4,11.3,0,1,22
+prod37577,Even Better,Dairy,Dairy,Food,2.71,17.1,15.1,1,1,26
+prod37579,Carlson,Dairy,Dairy,Food,2.76,11.9,10.8,1,1,19
+prod37583,Booker,Dairy,Dairy,Food,3.98,20.9,18.8,0,0,12
+prod37584,Carlson,Dairy,Dairy,Food,3.98,14.8,12.8,0,0,30
+prod37601,Gorilla,Dairy,Dairy,Food,2.16,8.58,5.57,1,0,20
+prod37813,Tell Tale,Packaged Vegetables,Produce,Food,1.67,18.1,16.1,0,0,30
+prod37814,High Top,Packaged Vegetables,Produce,Food,3.36,11.6,8.6,1,1,21
+prod37815,Ebony,Packaged Vegetables,Produce,Food,2.29,17.3,15.2,1,1,4
+prod37816,Tri-State,Packaged Vegetables,Produce,Food,1.66,13.6,11.6,0,0,23
+prod37820,Hermanos,Packaged Vegetables,Produce,Food,2.17,6.96,3.96,1,1,15
+prod37920,Super,Hot Beverages,Beverages,Drink,1.86,9.85,7.85,0,1,28
+prod37921,BBB Best,Hot Beverages,Beverages,Drink,2.63,14.5,11.5,1,1,19
+prod37923,Landslide,Hot Beverages,Beverages,Drink,0.64,10.4,8.39,0,1,28
+prod37925,CDR,Hot Beverages,Beverages,Drink,2.78,8.77,7.77,0,1,14
+prod37926,Plato,Hot Beverages,Beverages,Drink,0.59,17.3,16.2,0,1,23
+prod38046,Hilltop,Bathroom Products,Health and Hygiene,Non-Consumable,1.49,13.1,10.1,0,0,9
+prod38047,Faux Products,Bathroom Products,Health and Hygiene,Non-Consumable,2.29,19.7,17.7,1,0,8
+prod38048,Bird Call,Bathroom Products,Health and Hygiene,Non-Consumable,0.52,13.4,11.3,0,0,20
+prod38049,Steady,Bathroom Products,Health and Hygiene,Non-Consumable,1.45,9.65,7.64,1,0,14
+prod38051,Consolidated,Bathroom Products,Health and Hygiene,Non-Consumable,1.47,6.51,4.51,0,0,13
+prod38158,Excel,Magazines,Periodicals,Non-Consumable,2.13,7.1,5.09,1,0,13
+prod38159,Dollar,Magazines,Periodicals,Non-Consumable,2.85,14.1,12.1,1,0,33
+prod38165,Robust,Magazines,Periodicals,Non-Consumable,3.2,9.56,8.56,0,0,23
+prod38169,Gauss,Magazines,Periodicals,Non-Consumable,0.83,15.7,13.6,1,0,17
+prod38182,Mighty Good,Magazines,Periodicals,Non-Consumable,1.64,18.3,17.2,1,0,6
+prod38264,Cormorant,Bathroom Products,Household,Non-Consumable,2.34,9.02,7.02,1,0,36
+prod38265,Red Wing,Bathroom Products,Household,Non-Consumable,0.83,9.93,7.93,0,0,17
+prod38268,Sunset,Bathroom Products,Household,Non-Consumable,0.53,7.18,6.17,0,0,25
+prod38272,Denny,Bathroom Products,Household,Non-Consumable,2.13,9.18,7.18,0,0,3
+prod38273,High Quality,Bathroom Products,Household,Non-Consumable,1.39,21.7,18.7,1,0,11
+prod38401,Queen,Miscellaneous,Checkout,Non-Consumable,2.82,13.6,11.6,1,0,6
+prod38402,Framton,Miscellaneous,Checkout,Non-Consumable,2.3,20.7,19.7,1,0,8
+prod38404,James Bay,Miscellaneous,Checkout,Non-Consumable,1.72,10.1,7.1,1,0,28
+prod38405,Akron,Miscellaneous,Checkout,Non-Consumable,1.74,8.24,6.23,0,0,18
+prod38406,Black Tie,Miscellaneous,Checkout,Non-Consumable,1.57,8.78,7.77,1,0,1
+prod38521,Gauss,Magazines,Periodicals,Non-Consumable,2.78,16.1,15.1,1,0,14
+prod38523,Dollar,Magazines,Periodicals,Non-Consumable,2.91,10.8,8.8,0,0,6
+prod38525,Robust,Magazines,Periodicals,Non-Consumable,0.6,14.4,13.3,0,0,6
+prod38529,Excel,Magazines,Periodicals,Non-Consumable,3.62,19.7,18.7,1,0,12
+prod38545,Mighty Good,Magazines,Periodicals,Non-Consumable,1.85,13.7,10.6,0,0,6
+prod38633,Golden,Breakfast Foods,Frozen Foods,Food,2.36,8.83,6.82,1,1,29
+prod38634,Imagine,Breakfast Foods,Frozen Foods,Food,2.26,14.8,11.8,1,0,20
+prod38637,Big Time,Breakfast Foods,Frozen Foods,Food,1.26,19.8,18.7,0,1,8
+prod38640,PigTail,Breakfast Foods,Frozen Foods,Food,0.58,13.9,11.8,1,0,14
+prod38641,Carrington,Breakfast Foods,Frozen Foods,Food,2.47,14.5,13.5,0,1,23
+prod38742,Toretti,Specialty,Carousel,Non-Consumable,1.21,18.9,15.8,0,0,26
+prod38743,Prelude,Specialty,Carousel,Non-Consumable,2.3,21.5,19.5,1,0,29
+prod38744,Symphony,Specialty,Carousel,Non-Consumable,1.6,17.4,15.3,1,0,36
+prod38745,ADJ,Specialty,Carousel,Non-Consumable,2.76,19.6,18.6,1,0,26
+prod38747,King,Specialty,Carousel,Non-Consumable,0.99,11.7,10.6,1,0,25

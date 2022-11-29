@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Mart Homepage</title>
+    <link
+        rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/css/style.css"/>  
+    <!-- <style>
+        h2 { 
+        display: block;
+        font-size: 1.5em;
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+        }
+    </style> -->
+</head>
+
+<body class="bg-white text-dark">
+    <div class="wrapper">
+        <nav class="navbar navbar-white bg-success navbar-expand-lg">
+            <a class="nav-link navbar-brand text-white" href="/">Homepage</a>
+        </nav>
+    </div>
+
+    <div class="jumbotron text-white">
+        <h2 class="display-4"></h2>
+    </div>
+    <div class="container"></div>
+        <div class="row">
+        <div class="col-md-12">  
+            <h1 class="display-4" style="color: green; font-size:35px; padding-left: 30px; padding-right: 60px">Project Overview</h1>
+            <p style="color: rgb(50, 50, 59); font-size:25px ; padding-left: 30px; padding-right: 60px">
+                This project collected a demographic information of customer data as well as store, product, and promotion data. 
+                SQL database was used to store and query the data. Raw data was divdided into multiple tables and integrated according to column properties. 
+                To discover customer segment distributions, the factors of media cost and store sales, 
+                Tableau public was used to analyze and visualize the results.
+                On the other hand, random forest classification, deep learning, random forest regressor and multiple linear regression model were 
+                applied to explore the correlation between member card, occupation, cost, store sales and other features, and make predictions. 
+                Finally, a webpage library was built to summarize and display our team work.
+            </p>
+        </div>
+        </div>
+    </div> 
+    <br>
+    <div class="container"></div>
+    <div class="row">
+    <div class="col-md-12">  
+        <h1 class="display-4" style="color: green; font-size:35px; padding-left: 30px; padding-right: 60px">Guiding Questions:</h1>
+        <p style="color: rgb(50, 50, 59); font-size:25px ; padding-left: 30px; padding-right: 60px">
+            How many stores there are? 
+            In which cities and states these stores are? 
+            Do costumer demographics link to membership card tiers?
+            Is the cost of sales promotions linked to customers demographics?
+            What is media cost, by state, by store type, by food department?
+            Which are top media promotions, the top unit of sales?
+            What are the sales, by department, store, food category?
+        </p>
+    </div>
+    </div>  
+    <br>
+    <hr>
+    </div>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>About FoodMart</h2>   
+            </div>
+            <div class="col-md-5">
+                <h4><a href="https://en.wikipedia.org/wiki/Convenient_Food_Mart" target="_blank" rel="noopener noreferrer">Visit Wikipedia</a></p>
+                <!-- <p>
+                    Food Mart (CFM) is a chain of convenience stores in the United States. The private company's headquarters are located in Mentor, Ohio, and there are currently approximately 325 stores located in the US. Convenient Food Mart operates on the franchise system.
+                    <br><br>Food Mart was the nation's third-largest chain of convenience stores as of 1988.
+                    <br><br>Carden & Cherry advertised Convenient Food Mart with the Ernest character in the 1980s.
+                </p> -->
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-store-48-2.png"> 
+                    <a target="_blank" href="https://myconvenient.net" target="_blank" rel="noopener noreferrer">FoodMart</a>
+                </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>Data Source</h2>
+            </div>
+            <div class="col-md-5">
+                <h4>
+                    <a href="https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart?select=media+prediction+and+its+cost.csv" target="_blank" rel="noopener noreferrer">Kaggle Dataset: media prediction and its cost.csv </a></h4>
+                    <li class="nav-item">
+                    <h4><a class="nav-link" href="dataset_sample">Dataset Sample</a></h4>
+                    </li>   
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-kaggle-48.png"> 
+                    <a target="_blank" href="https://www.kaggle.com">Kaggle</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>Database</h2>
+            </div>
+            <div class="col-md-5">
+                <li class="nav-item">
+                <h4><a class="nav-link" href="sql_database">SQL</a></h4>
+                </li>
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-postgresql-48.png"> 
+                    <a target="_blank" href="https://www.postgresql.org">PostgreSQL</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-amazon-web-services-48.png"> 
+                    <a target="_blank" href="https://aws.amazon.com">AWS</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>Model</h2>
+            </div>
+            <div class="col-md-5">
+                <li class="nav-item">
+                <h4><a class="nav-link" href="machine_learning">Machine Learning</a></h4>
+                </li>
+                <!-- <h4><a href="../Machine Learning/machine_learning.html" target="_blank" rel="noopener noreferrer">Machine Learning</a></h4> -->
+                <!-- <h5>Random Forest Regressor</h5>
+                <h5>Multiple Linear Regression</h5>
+                <h5>Ranom Forest Regression</h5>
+                <h5>Neuron Network</h5> -->
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-python-48.png"> 
+                    <a target="_blank" href="https://www.python.org">Python</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-jupyter-48.png"> 
+                    <a target="_blank" href="https://jupyter.org">Jupyter</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-visual-studio-code-2019-48.png"> 
+                    <a target="_blank" href="https://code.visualstudio.com">VS Code</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>Visualization</h2>
+            </div>
+            <div class="col-md-5">
+                <li class="nav-item">
+                <h4><a class="nav-link" href="tableau_customer">Tableau</a></h4>
+                </li> 
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-tableau-software-48.png"> 
+                        <a target="_blank" href="https://www.tableau.com">Tableau</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
+                <h2>About Us</h2>
+            </div>
+            <div class="col-md-5"> 
+                <li class="nav-item">
+                <h4><a class="nav-link" href="our_team">Team Members</a></h4>
+                </li>            
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-github-48.png"> 
+                    <a target="_blank" href="https://github.com">GitHub</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-slack-new-48.png"> 
+                    <a target="_blank" href="https://slack.com">Slack</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-zoom-48.png"> 
+                    <a target="_blank" href="https://zoom.us">Zoom</a>
+                </p>              
+            </div>
+        </div>
+    </div>
+    <hr>
+    <!-- canvas in which to draw the star -->
+    <div class="container"></div>
+        <div class="row">
+        <div class="col-md-12"> 
+            <h1 class="display-4" style="color: green; font-size:35px; padding-left: 60px; padding-right: 60px">Summary</h1>
+            <p style="color: rgb(50, 50, 59); font-size:25px ; padding-left: 60px; padding-right: 60px">
+                <!-- <br>&#9989; result
+                <br>&#10062; result -->
+                <br>&#128309; 1.	Membership Card tiers are strongly linked with customer demographics. 
+                With deep learning model, we can predict Membership Card with accuracy of 0.970. 
+                With random forest model, prediction accuracy can be up to 0.982. 
+                Advertising on Membership Card tiers should be targeted via segmentation.
+                <br>
+                <br>&#128309; 2.	Media Cost can also be predicted by customer demographics with random forest regressor (RMSE: 0.637).  
+                Owners & Investors should pay close attention to the makeup of their customers when projecting Sales Promotion budgets.
+                <br>
+                <br>&#128309; 3.	For media type, Daily Paper advertisements are strongly correlated to store sales, 
+                thus newspaper promotions are highly recommended.
+                <br>
+                <br>&#128309; 4.	Supermarkets have the most of customers & spend more money on advertisements (highest Media Cost by store type).
+                 Weekend Markdown is the most effective way to stimulate customers to shop in Supermarkets & 
+                 Supermarket also invests the most money in their Weekend Markdown promotions.
+                <br>
+                <br>&#128309; 5.	 Store characteristics (Square Feet, Store Cost, Coffee Bar, Video Store, etc.) are strong predictors of Store Sales. 
+                Investor should expect to invest in a grocery store’s physical features, amenities if they want to maximize store sales.
+            </p>
+        </div>
+        </div> 
+    </div>
+    <div>
+    <div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    </div>
+
+</body>
+</html>
+
+
+
+<!-- </div>
+</div>
+<div class="col-md-5">
+  <div id="bar"></div>
+</div>
+<div class="col-md-5">
+  <div id="gauge"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+  <div id="bubble"></div>
+</div>
+</div>
+</div> -->
+<!-- <hr>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="plots.js"></script> -->
+<!-- <script src="charts.js"></script> -->

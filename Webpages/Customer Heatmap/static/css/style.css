@@ -1,0 +1,19 @@
+/* body {
+    background-image: url("../images/foodmart.png");
+    background-repeat: no-repeat;
+    background-size: 50% 30%;
+    background-position: bottom; 
+} */
+.jumbotron {
+    background-image: url("../images/grocery1.jpeg");
+    background-size:100% 100%;
+    text-align: center;
+    height: 300px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
