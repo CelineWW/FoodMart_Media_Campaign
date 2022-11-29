@@ -35,6 +35,11 @@ After reviewing the contents of the data source, here are some of the questions 
 
 ## Results 
 
+### ERD_SQL_AWS
+
+![Final_ERD](https://user-images.githubusercontent.com/105877888/204651510-5aaf98c0-d717-48aa-89a7-a6a82d7b6598.png)
+
+
 ### Machine Learning
 
 1. *Data Preprocessing* 
