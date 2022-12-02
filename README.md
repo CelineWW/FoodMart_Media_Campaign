@@ -11,6 +11,7 @@
 
  ## Data Source
 
+From kaggle dataset: https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart?select=media+prediction+and+its+cost.csv)
 Why this data source was chosen and what result were expecting to get out?
 
 Cost Prediction sounded interested since we are looking for a data source related to accounting (profit, revenue, overhead, marketing cost, how to attract new customers to increase sales).  The description of this data source “Predict cost on Media campaigns in food Mart of USA” sounded very instated and had the characteristics we were looking for.
