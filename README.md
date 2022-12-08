@@ -87,8 +87,29 @@ After reviewing the contents of the data source, here are some of the questions 
 
 ### Webpage Overview
 Check out our webpage here: https://foodmart-app.herokuapp.com/
+Attention: Heroku shut down its free tier since 11/28/2022. So Webpage is currently not accessible on Heroku. Sorry for the inconvenience. 
 
-![00_Homepage](https://user-images.githubusercontent.com/105877888/199294355-35d8c1d3-499b-4ea1-a316-af8a11fd2d5f.png)
+
+![01_Homepage](https://user-images.githubusercontent.com/105877888/206580391-a7d93b16-a2d1-445f-b86b-ad45c0196370.png)
+
+![03_filter search](https://user-images.githubusercontent.com/105877888/206580007-673385a3-7d9a-4801-b120-82e52770daa2.png)
+
+![04_SQL](https://user-images.githubusercontent.com/105877888/206580033-789859d1-e190-4c01-8d1b-c9c20d528afe.png)
+
+![05_heatmap](https://user-images.githubusercontent.com/105877888/206580056-c533e29e-cfaa-48dd-838a-3f2976f14485.png)
+
+![07_machine learning_bubble chart](https://user-images.githubusercontent.com/105877888/206581372-75f9438b-207f-4337-869e-af621ee3b04c.png)
+
+![07_maching learning code](https://user-images.githubusercontent.com/105877888/206581401-450d24d0-bc18-4554-9ea7-e9ec40989011.png)
+
+![08_tableau_store](https://user-images.githubusercontent.com/105877888/206580127-4f51ca25-a085-4dd9-b311-2bb6cb88310b.png)
+
+![09_tableau_customer](https://user-images.githubusercontent.com/105877888/206580153-e466dfd7-7111-43fa-98be-d7adb01a3b5e.png)
+
+![11_summary](https://user-images.githubusercontent.com/105877888/206580230-008cbff5-879a-4613-9313-9e4856ae88a8.png)
+
+![10_our team](https://user-images.githubusercontent.com/105877888/206580171-934bed8f-460b-45cc-9e29-ed6d2ebcf723.png)
+
 
 
 ### Tableau Visualization and results 
