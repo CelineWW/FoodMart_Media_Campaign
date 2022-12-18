@@ -1,5 +1,11 @@
 
  # FoodMart_Media_Campaign
+
+ This is a team work of a capstone project.
+
+- Check full project here: https://github.com/bpiffard/Capstone_Final_Group_Project
+- Check our webpage here: https://foodmart-app.herokuapp.com/
+
  ## Overview
 
 - This project collected a demographic information of customer data as well as store, product, and promotion data. SQL and AWS database were used to store and query the data. Raw data was divdided into multiple tables and integrated according to column properties. 
