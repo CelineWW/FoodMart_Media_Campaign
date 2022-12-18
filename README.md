@@ -6,8 +6,8 @@
 - Check full project here: 
   - https://github.com/bpiffard/Capstone_Final_Group_Project
 - Check our webpage here: 
-  - original https://foodmart-app.herokuapp.com/ (currently unavailable because free tier of Heroku depolyment is shut down since 11/28/2022)
-  - current https://celineww.github.io/FoodMart_Media_Campaign/ 
+  - https://foodmart-app.herokuapp.com/ (currently unavailable because free tier of Heroku depolyment is shut down since 11/28/2022)
+  - https://celineww.github.io/FoodMart_Media_Campaign/ 
 
 
  ## Overview
