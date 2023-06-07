@@ -210,7 +210,7 @@ Where do they shop?
 
  ## Summary
     - Membership Card tiers are strongly linked with customer demographics. 
-         With deep learning model, we can predict Membership Card with accuracy of 0.970. 
+         With deep learning model, we can predict Membership Card with accuracy of 0.970. The model here is binary classification. Deep Neural Network MultiClass Classification will be a better choice for this prediction.
          With random forest model, prediction accuracy can be up to 0.982. 
          Advertising of Membership Card tiers should be targeted via segmentation.
 
